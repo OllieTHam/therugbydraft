@@ -1,4 +1,4 @@
-# 20-0 — Project Source of Truth
+# The Rugby Draft — Project Source of Truth
 
 This file is read automatically by Claude Code and should be treated as the
 single source of truth for how this project is built. GitHub issues should
@@ -6,10 +6,10 @@ reference this file ("see CLAUDE.md") rather than repeating these rules.
 
 ## Project Overview
 
-**What:** 20-0 is a browser-based Premiership rugby draft and season
+**What:** The Rugby Draft is a browser-based Premiership rugby draft and season
 simulator. Players take turns drafting from a pool of real club players to
 build a squad, then simulate matches using an engine that weighs position
-ratings, international caps, and team balance.
+ratings, international caps, and team balance. The current live mode is called "Prem 20-0" — an unbeaten 18-game league season plus playoffs, a perfect 20-0 record (the literal score, not the brand name).
 
 **Stack:** React + Vite + Tailwind CSS, plain JavaScript (not TypeScript —
 see below), static JSON player data, deployed on Vercel free tier. No
@@ -91,7 +91,7 @@ later version — that's when proper logging becomes worth setting up.
 
 - **Sonnet:** routine build work, UI pages, planning discussions.
 - **Opus:** complex logic and engine design — specifically Issue 3 (match
-  simulation engine) and any future scoring/balance logic. Flag explicitly
+  simulation engine) and Issue 4 (season simulator & league table), plus any future scoring/balance logic. Flag explicitly
   when a model switch is needed, in both Claude Code and the planning
   project.
 
