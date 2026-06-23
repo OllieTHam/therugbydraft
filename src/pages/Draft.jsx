@@ -1,3 +1,8 @@
+import { useLocation } from 'react-router-dom'
+
 export default function Draft() {
-  return <div>Draft</div>
+  const { state } = useLocation()
+  const difficulty = state?.difficulty ?? 'medium'
+
+  return <div>Draft — difficulty: {difficulty}</div>
 }
