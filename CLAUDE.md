@@ -103,12 +103,16 @@ later version — that's when proper logging becomes worth setting up.
 - Compound bash commands using `cd` will prompt for manual approval in
   Claude Code — this is expected security behaviour, not a bug.
 
-## GitHub issue numbering
+## ## GitHub issue numbering
 
-This project uses an "Issue 0" naming convention internally. GitHub issues
-are numbered from #1, so there's a permanent +1 offset (project "Issue 0" =
-GitHub #1, project "Issue 3" = GitHub #4, etc.). Always confirm which
-numbering scheme is being referred to before acting on an issue number.
+GitHub issue numbers do NOT follow a fixed offset from project issue
+numbers. This broke during initial issue creation (a failed batch run
+left some project issues uncreated, and GitHub never reuses numbers,
+so later issues filled gaps rather than lining up). The issue TITLE
+(e.g. "Issue 6: Draft logic") is the source of truth for project
+numbering — never assume project Issue N is GitHub #N or #N+1. When
+referring to an issue, use the title or look up its actual number on
+GitHub; don't compute it.
 
 ## Out of scope for v1 (do not build unless explicitly asked)
 
