@@ -3,210 +3,210 @@
     "club": "Gloucester RFC",
     "position": "Loosehead Prop",
     "name": "Joe Walsh",
-    "overallRating": 74,
+    "overall": 74,
     "intlCaps": 8
   },
   {
     "club": "Gloucester RFC",
     "position": "Hooker",
     "name": "Tom Bennett",
-    "overallRating": 72,
+    "overall": 72,
     "intlCaps": 5
   },
   {
     "club": "Gloucester RFC",
     "position": "Tighthead Prop",
     "name": "Dan Marsh",
-    "overallRating": 76,
+    "overall": 76,
     "intlCaps": 12
   },
   {
     "club": "Gloucester RFC",
     "position": "Lock",
     "name": "Chris Fowler",
-    "overallRating": 73,
+    "overall": 73,
     "intlCaps": 3
   },
   {
     "club": "Gloucester RFC",
     "position": "Lock",
     "name": "Liam Rees",
-    "overallRating": 75,
+    "overall": 75,
     "intlCaps": 7
   },
   {
     "club": "Gloucester RFC",
     "position": "Blindside Flanker",
     "name": "Matt Hughes",
-    "overallRating": 78,
+    "overall": 78,
     "intlCaps": 18
   },
   {
     "club": "Gloucester RFC",
     "position": "Openside Flanker",
     "name": "Sam Clarke",
-    "overallRating": 80,
+    "overall": 80,
     "intlCaps": 24
   },
   {
     "club": "Gloucester RFC",
     "position": "Number 8",
     "name": "Will Donaldson",
-    "overallRating": 77,
+    "overall": 77,
     "intlCaps": 14
   },
   {
     "club": "Gloucester RFC",
     "position": "Scrum-half",
     "name": "Jack Porter",
-    "overallRating": 82,
+    "overall": 82,
     "intlCaps": 31
   },
   {
     "club": "Gloucester RFC",
     "position": "Fly-half",
     "name": "Ben Turner",
-    "overallRating": 85,
+    "overall": 85,
     "intlCaps": 42
   },
   {
     "club": "Gloucester RFC",
     "position": "Left Wing",
     "name": "Ryan Pearce",
-    "overallRating": 79,
+    "overall": 79,
     "intlCaps": 20
   },
   {
     "club": "Gloucester RFC",
     "position": "Inside Centre",
     "name": "Alex Morgan",
-    "overallRating": 76,
+    "overall": 76,
     "intlCaps": 15
   },
   {
     "club": "Gloucester RFC",
     "position": "Outside Centre",
     "name": "Luke Shaw",
-    "overallRating": 74,
+    "overall": 74,
     "intlCaps": 9
   },
   {
     "club": "Gloucester RFC",
     "position": "Right Wing",
     "name": "Chris Hunt",
-    "overallRating": 77,
+    "overall": 77,
     "intlCaps": 22
   },
   {
     "club": "Gloucester RFC",
     "position": "Fullback",
     "name": "Jake Mills",
-    "overallRating": 83,
+    "overall": 83,
     "intlCaps": 37
   },
   {
     "club": "Harlequins RFC",
     "position": "Loosehead Prop",
     "name": "Nathan Cole",
-    "overallRating": 75,
+    "overall": 75,
     "intlCaps": 10
   },
   {
     "club": "Harlequins RFC",
     "position": "Hooker",
     "name": "Rob Price",
-    "overallRating": 71,
+    "overall": 71,
     "intlCaps": 2
   },
   {
     "club": "Harlequins RFC",
     "position": "Tighthead Prop",
     "name": "Steve Burns",
-    "overallRating": 78,
+    "overall": 78,
     "intlCaps": 16
   },
   {
     "club": "Harlequins RFC",
     "position": "Lock",
     "name": "Paul Davies",
-    "overallRating": 74,
+    "overall": 74,
     "intlCaps": 8
   },
   {
     "club": "Harlequins RFC",
     "position": "Lock",
     "name": "Owen Jones",
-    "overallRating": 76,
+    "overall": 76,
     "intlCaps": 11
   },
   {
     "club": "Harlequins RFC",
     "position": "Blindside Flanker",
     "name": "Callum Ross",
-    "overallRating": 79,
+    "overall": 79,
     "intlCaps": 22
   },
   {
     "club": "Harlequins RFC",
     "position": "Openside Flanker",
     "name": "Tom Evans",
-    "overallRating": 81,
+    "overall": 81,
     "intlCaps": 28
   },
   {
     "club": "Harlequins RFC",
     "position": "Number 8",
     "name": "Mark Griffiths",
-    "overallRating": 78,
+    "overall": 78,
     "intlCaps": 19
   },
   {
     "club": "Harlequins RFC",
     "position": "Scrum-half",
     "name": "Ed Lewis",
-    "overallRating": 80,
+    "overall": 80,
     "intlCaps": 26
   },
   {
     "club": "Harlequins RFC",
     "position": "Fly-half",
     "name": "Harry Wood",
-    "overallRating": 84,
+    "overall": 84,
     "intlCaps": 38
   },
   {
     "club": "Harlequins RFC",
     "position": "Left Wing",
     "name": "Dom Scott",
-    "overallRating": 77,
+    "overall": 77,
     "intlCaps": 17
   },
   {
     "club": "Harlequins RFC",
     "position": "Inside Centre",
     "name": "Josh White",
-    "overallRating": 75,
+    "overall": 75,
     "intlCaps": 12
   },
   {
     "club": "Harlequins RFC",
     "position": "Outside Centre",
     "name": "Finn Murphy",
-    "overallRating": 73,
+    "overall": 73,
     "intlCaps": 6
   },
   {
     "club": "Harlequins RFC",
     "position": "Right Wing",
     "name": "Toby Ellis",
-    "overallRating": 78,
+    "overall": 78,
     "intlCaps": 21
   },
   {
     "club": "Harlequins RFC",
     "position": "Fullback",
     "name": "Sam Parker",
-    "overallRating": 82,
+    "overall": 82,
     "intlCaps": 33
   }
 ]

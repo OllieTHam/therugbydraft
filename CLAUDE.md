@@ -36,7 +36,7 @@ Example:
  * @property {string} name
  * @property {string} club
  * @property {string} position
- * @property {number} overallRating
+ * @property {number} overall
  * @property {number} intlCaps
  */
 ```

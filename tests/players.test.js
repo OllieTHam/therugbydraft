@@ -10,7 +10,7 @@ describe('players.placeholder.json', () => {
       expect(p).toHaveProperty('club')
       expect(p).toHaveProperty('position')
       expect(p).toHaveProperty('name')
-      expect(p).toHaveProperty('overallRating')
+      expect(p).toHaveProperty('overall')
       expect(p).toHaveProperty('intlCaps')
     }
   })

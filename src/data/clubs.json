@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Bath Rugby",
+    "colours": ["navy", "gold"],
+    "season": "2024-25"
+  },
+  {
+    "name": "Bristol Bears",
+    "colours": ["red", "black", "white"],
+    "season": "2024-25"
+  },
+  {
+    "name": "Exeter Chiefs",
+    "colours": ["black", "white"],
+    "season": "2024-25"
+  },
+  {
+    "name": "Gloucester Rugby",
+    "colours": ["cherry", "white"],
+    "season": "2024-25"
+  },
+  {
+    "name": "Harlequins",
+    "colours": ["lightBlue", "darkNavy", "magenta", "chocolate"],
+    "season": "2024-25"
+  },
+  {
+    "name": "Leicester Tigers",
+    "colours": ["green", "white", "red"],
+    "season": "2024-25"
+  },
+  {
+    "name": "Newcastle Falcons",
+    "colours": ["black", "white"],
+    "season": "2024-25"
+  },
+  {
+    "name": "Northampton Saints",
+    "colours": ["black", "green", "gold"],
+    "season": "2024-25"
+  },
+  {
+    "name": "Sale Sharks",
+    "colours": ["royalBlue", "white"],
+    "season": "2024-25"
+  },
+  {
+    "name": "Saracens",
+    "colours": ["black", "red"],
+    "season": "2024-25"
+  }
+]
