@@ -33,13 +33,37 @@ Example:
 ```js
 /**
  * @typedef {Object} Player
- * @property {string} name
- * @property {string} club
- * @property {string} position
- * @property {number} overall
- * @property {number} intlCaps
+ * @property {string}   name
+ * @property {string}   club
+ * @property {string[]} positions
+ * @property {number}   overall
+ * @property {number}   intlCaps
  */
 ```
+
+## Player position tags
+
+The canonical position tags used in `positions` arrays and squad validation are
+these 12 values (see `src/data/validation.js` — `REQUIRED_POSITIONS`):
+
+```
+Loosehead Prop  Tighthead Prop  Hooker
+Lock            Flanker         Number 8
+Scrum-half      Fly-half
+Inside Centre   Outside Centre
+Wing            Fullback
+```
+
+**Key design decisions:**
+- `positions` is an unordered array — there is no "primary" position.
+  A player who can play both centres has `["Inside Centre", "Outside Centre"]`.
+- **Flanker** replaces both "Blindside Flanker" and "Openside Flanker".
+  There is no in-game distinction; two Flanker-tagged players are needed per squad.
+- **Wing** replaces both "Left Wing" and "Right Wing" for the same reason.
+  Two Wing-tagged players are needed per squad.
+- **Inside Centre / Outside Centre remain split** — these are genuinely different
+  skill profiles and the engine treats them separately.
+- Lock also requires two players per squad (unchanged from original design).
 
 ## Testing: Vitest + React Testing Library (already configured)
 

@@ -1,27 +1,25 @@
 /**
- * Positions that every club squad must include.
- * Lock requires two players; everything else requires one.
+ * The 12 canonical position tags used in player data and squad validation.
+ * Lock, Flanker, and Wing each require two players per squad.
  * @type {string[]}
  */
 export const REQUIRED_POSITIONS = [
   'Loosehead Prop',
-  'Hooker',
   'Tighthead Prop',
+  'Hooker',
   'Lock',
-  'Blindside Flanker',
-  'Openside Flanker',
+  'Flanker',
   'Number 8',
   'Scrum-half',
   'Fly-half',
-  'Left Wing',
   'Inside Centre',
   'Outside Centre',
-  'Right Wing',
+  'Wing',
   'Fullback',
 ];
 
 /** Positions that need more than one player per squad. */
-const MINIMUM_COUNTS = { Lock: 2 };
+const MINIMUM_COUNTS = { Lock: 2, Flanker: 2, Wing: 2 };
 
 /**
  * Validates that a player has all required fields.
@@ -37,8 +35,8 @@ export function validatePlayer(player) {
   if (!player || typeof player.name !== 'string' || player.name.trim() === '') {
     errors.push('Missing required field: name');
   }
-  if (!player || typeof player.position !== 'string' || player.position.trim() === '') {
-    errors.push('Missing required field: position');
+  if (!player || !Array.isArray(player.positions) || player.positions.length === 0) {
+    errors.push('Missing required field: positions');
   }
   if (!player || typeof player.overall !== 'number' || Number.isNaN(player.overall)) {
     errors.push('Missing required field: overall');
@@ -68,7 +66,8 @@ export function applyDefaults(player) {
 
 /**
  * Checks that every club in clubNames has at least the minimum number of
- * players for each required position.
+ * players for each required position. A player counts toward a position if
+ * that tag appears anywhere in their positions array.
  *
  * @param {import('./schema.js').Player[]} players
  * @param {string[]} clubNames
@@ -82,7 +81,7 @@ export function validateSquad(players, clubNames) {
 
     for (const position of REQUIRED_POSITIONS) {
       const needed = MINIMUM_COUNTS[position] ?? 1;
-      const found = squad.filter(p => p.position === position).length;
+      const found = squad.filter(p => Array.isArray(p.positions) && p.positions.includes(position)).length;
       if (found < needed) {
         errors.push(
           `${clubName}: needs ${needed} ${position} player${needed > 1 ? 's' : ''}, found ${found}`

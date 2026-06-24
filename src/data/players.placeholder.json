@@ -1,210 +1,210 @@
 [
   {
     "club": "Gloucester RFC",
-    "position": "Loosehead Prop",
+    "positions": ["Loosehead Prop"],
     "name": "Joe Walsh",
     "overall": 74,
     "intlCaps": 8
   },
   {
     "club": "Gloucester RFC",
-    "position": "Hooker",
+    "positions": ["Hooker"],
     "name": "Tom Bennett",
     "overall": 72,
     "intlCaps": 5
   },
   {
     "club": "Gloucester RFC",
-    "position": "Tighthead Prop",
+    "positions": ["Tighthead Prop"],
     "name": "Dan Marsh",
     "overall": 76,
     "intlCaps": 12
   },
   {
     "club": "Gloucester RFC",
-    "position": "Lock",
+    "positions": ["Lock"],
     "name": "Chris Fowler",
     "overall": 73,
     "intlCaps": 3
   },
   {
     "club": "Gloucester RFC",
-    "position": "Lock",
+    "positions": ["Lock"],
     "name": "Liam Rees",
     "overall": 75,
     "intlCaps": 7
   },
   {
     "club": "Gloucester RFC",
-    "position": "Blindside Flanker",
+    "positions": ["Flanker"],
     "name": "Matt Hughes",
     "overall": 78,
     "intlCaps": 18
   },
   {
     "club": "Gloucester RFC",
-    "position": "Openside Flanker",
+    "positions": ["Flanker"],
     "name": "Sam Clarke",
     "overall": 80,
     "intlCaps": 24
   },
   {
     "club": "Gloucester RFC",
-    "position": "Number 8",
+    "positions": ["Number 8"],
     "name": "Will Donaldson",
     "overall": 77,
     "intlCaps": 14
   },
   {
     "club": "Gloucester RFC",
-    "position": "Scrum-half",
+    "positions": ["Scrum-half"],
     "name": "Jack Porter",
     "overall": 82,
     "intlCaps": 31
   },
   {
     "club": "Gloucester RFC",
-    "position": "Fly-half",
+    "positions": ["Fly-half"],
     "name": "Ben Turner",
     "overall": 85,
     "intlCaps": 42
   },
   {
     "club": "Gloucester RFC",
-    "position": "Left Wing",
+    "positions": ["Wing"],
     "name": "Ryan Pearce",
     "overall": 79,
     "intlCaps": 20
   },
   {
     "club": "Gloucester RFC",
-    "position": "Inside Centre",
+    "positions": ["Inside Centre"],
     "name": "Alex Morgan",
     "overall": 76,
     "intlCaps": 15
   },
   {
     "club": "Gloucester RFC",
-    "position": "Outside Centre",
+    "positions": ["Outside Centre"],
     "name": "Luke Shaw",
     "overall": 74,
     "intlCaps": 9
   },
   {
     "club": "Gloucester RFC",
-    "position": "Right Wing",
+    "positions": ["Wing"],
     "name": "Chris Hunt",
     "overall": 77,
     "intlCaps": 22
   },
   {
     "club": "Gloucester RFC",
-    "position": "Fullback",
+    "positions": ["Fullback"],
     "name": "Jake Mills",
     "overall": 83,
     "intlCaps": 37
   },
   {
     "club": "Harlequins RFC",
-    "position": "Loosehead Prop",
+    "positions": ["Loosehead Prop"],
     "name": "Nathan Cole",
     "overall": 75,
     "intlCaps": 10
   },
   {
     "club": "Harlequins RFC",
-    "position": "Hooker",
+    "positions": ["Hooker"],
     "name": "Rob Price",
     "overall": 71,
     "intlCaps": 2
   },
   {
     "club": "Harlequins RFC",
-    "position": "Tighthead Prop",
+    "positions": ["Tighthead Prop"],
     "name": "Steve Burns",
     "overall": 78,
     "intlCaps": 16
   },
   {
     "club": "Harlequins RFC",
-    "position": "Lock",
+    "positions": ["Lock"],
     "name": "Paul Davies",
     "overall": 74,
     "intlCaps": 8
   },
   {
     "club": "Harlequins RFC",
-    "position": "Lock",
+    "positions": ["Lock"],
     "name": "Owen Jones",
     "overall": 76,
     "intlCaps": 11
   },
   {
     "club": "Harlequins RFC",
-    "position": "Blindside Flanker",
+    "positions": ["Flanker"],
     "name": "Callum Ross",
     "overall": 79,
     "intlCaps": 22
   },
   {
     "club": "Harlequins RFC",
-    "position": "Openside Flanker",
+    "positions": ["Flanker"],
     "name": "Tom Evans",
     "overall": 81,
     "intlCaps": 28
   },
   {
     "club": "Harlequins RFC",
-    "position": "Number 8",
+    "positions": ["Number 8"],
     "name": "Mark Griffiths",
     "overall": 78,
     "intlCaps": 19
   },
   {
     "club": "Harlequins RFC",
-    "position": "Scrum-half",
+    "positions": ["Scrum-half"],
     "name": "Ed Lewis",
     "overall": 80,
     "intlCaps": 26
   },
   {
     "club": "Harlequins RFC",
-    "position": "Fly-half",
+    "positions": ["Fly-half"],
     "name": "Harry Wood",
     "overall": 84,
     "intlCaps": 38
   },
   {
     "club": "Harlequins RFC",
-    "position": "Left Wing",
+    "positions": ["Wing"],
     "name": "Dom Scott",
     "overall": 77,
     "intlCaps": 17
   },
   {
     "club": "Harlequins RFC",
-    "position": "Inside Centre",
+    "positions": ["Inside Centre"],
     "name": "Josh White",
     "overall": 75,
     "intlCaps": 12
   },
   {
     "club": "Harlequins RFC",
-    "position": "Outside Centre",
+    "positions": ["Outside Centre"],
     "name": "Finn Murphy",
     "overall": 73,
     "intlCaps": 6
   },
   {
     "club": "Harlequins RFC",
-    "position": "Right Wing",
+    "positions": ["Wing"],
     "name": "Toby Ellis",
     "overall": 78,
     "intlCaps": 21
   },
   {
     "club": "Harlequins RFC",
-    "position": "Fullback",
+    "positions": ["Fullback"],
     "name": "Sam Parker",
     "overall": 82,
     "intlCaps": 33

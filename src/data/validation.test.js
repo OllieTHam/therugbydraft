@@ -1,7 +1,7 @@
 import { describe, it, expect } from 'vitest';
 import { validatePlayer, applyDefaults, validateSquad } from './validation.js';
 
-const MINIMAL_PLAYER = { name: 'Joe Walsh', position: 'Loosehead Prop', overall: 74 };
+const MINIMAL_PLAYER = { name: 'Joe Walsh', positions: ['Loosehead Prop'], overall: 74 };
 
 describe('validatePlayer', () => {
   it('passes a player with only the three required fields', () => {
@@ -20,11 +20,16 @@ describe('validatePlayer', () => {
     expect(result.valid).toBe(false);
   });
 
-  it('fails when position is missing', () => {
-    const { position: _p, ...player } = MINIMAL_PLAYER;
+  it('fails when positions is missing', () => {
+    const { positions: _p, ...player } = MINIMAL_PLAYER;
     const result = validatePlayer(player);
     expect(result.valid).toBe(false);
-    expect(result.errors).toEqual(expect.arrayContaining([expect.stringContaining('position')]));
+    expect(result.errors).toEqual(expect.arrayContaining([expect.stringContaining('positions')]));
+  });
+
+  it('fails when positions is an empty array', () => {
+    const result = validatePlayer({ ...MINIMAL_PLAYER, positions: [] });
+    expect(result.valid).toBe(false);
   });
 
   it('fails when overall is missing', () => {
@@ -43,6 +48,11 @@ describe('validatePlayer', () => {
 
   it('does NOT fail when a player has intlCaps and tryRate but no sub-ratings', () => {
     const player = { ...MINIMAL_PLAYER, intlCaps: 10, tryRate: 0.3 };
+    expect(validatePlayer(player).valid).toBe(true);
+  });
+
+  it('passes a player with multiple positions', () => {
+    const player = { ...MINIMAL_PLAYER, positions: ['Inside Centre', 'Outside Centre'] };
     expect(validatePlayer(player).valid).toBe(true);
   });
 });
@@ -86,19 +96,21 @@ describe('applyDefaults', () => {
 });
 
 describe('validateSquad', () => {
+  // 15 slots using the 12-tag vocabulary (Lock×2, Flanker×2, Wing×2)
   const SQUAD_POSITIONS = [
-    'Loosehead Prop', 'Hooker', 'Tighthead Prop',
+    'Loosehead Prop', 'Tighthead Prop', 'Hooker',
     'Lock', 'Lock',
-    'Blindside Flanker', 'Openside Flanker', 'Number 8',
+    'Flanker', 'Flanker', 'Number 8',
     'Scrum-half', 'Fly-half',
-    'Left Wing', 'Inside Centre', 'Outside Centre', 'Right Wing', 'Fullback',
+    'Inside Centre', 'Outside Centre',
+    'Wing', 'Wing', 'Fullback',
   ];
 
   const makeSquad = (club) =>
     SQUAD_POSITIONS.map((position, i) => ({
       name: `Player ${i + 1}`,
       club,
-      position,
+      positions: [position],
       overall: 75,
     }));
 
@@ -109,7 +121,7 @@ describe('validateSquad', () => {
   });
 
   it('fails when a club has no Fly-half', () => {
-    const squad = makeSquad('Bath Rugby').filter(p => p.position !== 'Fly-half');
+    const squad = makeSquad('Bath Rugby').filter(p => !p.positions.includes('Fly-half'));
     const result = validateSquad(squad, ['Bath Rugby']);
     expect(result.valid).toBe(false);
     expect(result.errors).toEqual(
@@ -119,7 +131,7 @@ describe('validateSquad', () => {
 
   it('fails when a club has only one Lock instead of two', () => {
     const squad = makeSquad('Bath Rugby');
-    const lockIndex = squad.findIndex(p => p.position === 'Lock');
+    const lockIndex = squad.findIndex(p => p.positions.includes('Lock'));
     squad.splice(lockIndex, 1);
     const result = validateSquad(squad, ['Bath Rugby']);
     expect(result.valid).toBe(false);
@@ -130,7 +142,7 @@ describe('validateSquad', () => {
 
   it('reports errors per-club independently', () => {
     const bath = makeSquad('Bath Rugby');
-    const bristol = makeSquad('Bristol Bears').filter(p => p.position !== 'Hooker');
+    const bristol = makeSquad('Bristol Bears').filter(p => !p.positions.includes('Hooker'));
     const result = validateSquad([...bath, ...bristol], ['Bath Rugby', 'Bristol Bears']);
     expect(result.valid).toBe(false);
     expect(result.errors.some(e => e.includes('Bristol Bears'))).toBe(true);
@@ -140,6 +152,21 @@ describe('validateSquad', () => {
   it('passes when all clubs are complete', () => {
     const players = [...makeSquad('Bath Rugby'), ...makeSquad('Bristol Bears')];
     const result = validateSquad(players, ['Bath Rugby', 'Bristol Bears']);
+    expect(result.valid).toBe(true);
+  });
+
+  it('counts a multi-position player toward all their positions', () => {
+    // Remove both centre players and replace with one player covering both slots
+    const squad = makeSquad('Bath Rugby').filter(
+      p => !p.positions.includes('Inside Centre') && !p.positions.includes('Outside Centre')
+    );
+    squad.push({
+      name: 'Dual Centre',
+      club: 'Bath Rugby',
+      positions: ['Inside Centre', 'Outside Centre'],
+      overall: 80,
+    });
+    const result = validateSquad(squad, ['Bath Rugby']);
     expect(result.valid).toBe(true);
   });
 });
