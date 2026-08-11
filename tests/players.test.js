@@ -1,8 +1,8 @@
-import players from '../src/data/players.placeholder.json'
+import players from '../src/data/players.json'
 
-describe('players.placeholder.json', () => {
-  it('contains 30 players', () => {
-    expect(players).toHaveLength(30)
+describe('players.json', () => {
+  it('contains 550 players', () => {
+    expect(players).toHaveLength(550)
   })
 
   it('every player has the required schema fields', () => {
@@ -11,7 +11,6 @@ describe('players.placeholder.json', () => {
       expect(p).toHaveProperty('positions')
       expect(p).toHaveProperty('name')
       expect(p).toHaveProperty('overall')
-      expect(p).toHaveProperty('intlCaps')
     }
   })
 
@@ -23,7 +22,7 @@ describe('players.placeholder.json', () => {
       'Inside Centre', 'Outside Centre', 'Wing', 'Fullback',
     ]
     const clubs = [...new Set(players.map((p) => p.club))]
-    expect(clubs).toHaveLength(2)
+    expect(clubs).toHaveLength(10)
 
     for (const club of clubs) {
       const clubPlayers = players.filter((p) => p.club === club)

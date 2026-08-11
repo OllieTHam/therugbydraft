@@ -1,0 +1,6088 @@
+[
+  {
+    "name": "Finn Russell",
+    "club": "Bath Rugby",
+    "positions": [
+      "Fly-half"
+    ],
+    "overall": 89,
+    "attack": 89,
+    "defence": 89,
+    "setPiece": 89
+  },
+  {
+    "name": "Marcus Smith",
+    "club": "Harlequins",
+    "positions": [
+      "Fly-half"
+    ],
+    "overall": 87,
+    "attack": 87,
+    "defence": 87,
+    "setPiece": 87
+  },
+  {
+    "name": "Maro Itoje",
+    "club": "Saracens",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 89,
+    "attack": 89,
+    "defence": 89,
+    "setPiece": 89
+  },
+  {
+    "name": "George Ford",
+    "club": "Sale Sharks",
+    "positions": [
+      "Fly-half"
+    ],
+    "overall": 85,
+    "attack": 85,
+    "defence": 85,
+    "setPiece": 85
+  },
+  {
+    "name": "Ben Earl",
+    "club": "Saracens",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 89,
+    "attack": 89,
+    "defence": 89,
+    "setPiece": 89
+  },
+  {
+    "name": "Ellis Genge",
+    "club": "Bristol Bears",
+    "positions": [
+      "Loosehead Prop"
+    ],
+    "overall": 89,
+    "attack": 89,
+    "defence": 89,
+    "setPiece": 89
+  },
+  {
+    "name": "Harry Randall",
+    "club": "Bristol Bears",
+    "positions": [
+      "Scrum-half"
+    ],
+    "overall": 88,
+    "attack": 88,
+    "defence": 88,
+    "setPiece": 88
+  },
+  {
+    "name": "Henry Slade",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Inside Centre",
+      "Outside Centre"
+    ],
+    "overall": 90,
+    "attack": 90,
+    "defence": 90,
+    "setPiece": 90
+  },
+  {
+    "name": "Freddie Steward",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Fullback"
+    ],
+    "overall": 89,
+    "attack": 89,
+    "defence": 89,
+    "setPiece": 89
+  },
+  {
+    "name": "Alex Mitchell",
+    "club": "Northampton Saints",
+    "positions": [
+      "Scrum-half"
+    ],
+    "overall": 88,
+    "attack": 88,
+    "defence": 88,
+    "setPiece": 88
+  },
+  {
+    "name": "Tommy Freeman",
+    "club": "Northampton Saints",
+    "positions": [
+      "Wing",
+      "Fullback"
+    ],
+    "overall": 94,
+    "attack": 94,
+    "defence": 94,
+    "setPiece": 94
+  },
+  {
+    "name": "Tom Curry",
+    "club": "Sale Sharks",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 85,
+    "attack": 85,
+    "defence": 85,
+    "setPiece": 85
+  },
+  {
+    "name": "Will Stuart",
+    "club": "Bath Rugby",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 87,
+    "attack": 87,
+    "defence": 87,
+    "setPiece": 87
+  },
+  {
+    "name": "Dafydd Jenkins",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "Henry Pollock",
+    "club": "Northampton Saints",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 90,
+    "attack": 90,
+    "defence": 90,
+    "setPiece": 90
+  },
+  {
+    "name": "Owen Farrell",
+    "club": "Saracens",
+    "positions": [
+      "Fly-half"
+    ],
+    "overall": 86,
+    "attack": 86,
+    "defence": 86,
+    "setPiece": 86
+  },
+  {
+    "name": "Sam Underhill",
+    "club": "Bath Rugby",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 90,
+    "attack": 90,
+    "defence": 90,
+    "setPiece": 90
+  },
+  {
+    "name": "Immanuel Feyi-Waboso",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 90,
+    "attack": 90,
+    "defence": 90,
+    "setPiece": 90
+  },
+  {
+    "name": "Fin Smith",
+    "club": "Northampton Saints",
+    "positions": [
+      "Fly-half"
+    ],
+    "overall": 90,
+    "attack": 90,
+    "defence": 90,
+    "setPiece": 90
+  },
+  {
+    "name": "Tom Willis",
+    "club": "Saracens",
+    "positions": [
+      "Number 8"
+    ],
+    "overall": 96,
+    "attack": 96,
+    "defence": 96,
+    "setPiece": 96
+  },
+  {
+    "name": "Charlie Ewels",
+    "club": "Bath Rugby",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 87,
+    "attack": 87,
+    "defence": 87,
+    "setPiece": 87
+  },
+  {
+    "name": "Henry Arundell",
+    "club": "Bath Rugby",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 86,
+    "attack": 86,
+    "defence": 86,
+    "setPiece": 86
+  },
+  {
+    "name": "Viliame Mata",
+    "club": "Bristol Bears",
+    "positions": [
+      "Number 8"
+    ],
+    "overall": 89,
+    "attack": 89,
+    "defence": 89,
+    "setPiece": 89
+  },
+  {
+    "name": "Nepo Laulala",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 84,
+    "attack": 84,
+    "defence": 84,
+    "setPiece": 84
+  },
+  {
+    "name": "Tomos Williams",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Scrum-half"
+    ],
+    "overall": 88,
+    "attack": 88,
+    "defence": 88,
+    "setPiece": 88
+  },
+  {
+    "name": "Alex Dombrandt",
+    "club": "Harlequins",
+    "positions": [
+      "Number 8"
+    ],
+    "overall": 89,
+    "attack": 89,
+    "defence": 89,
+    "setPiece": 89
+  },
+  {
+    "name": "Nicky Smith",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Loosehead Prop"
+    ],
+    "overall": 89,
+    "attack": 89,
+    "defence": 89,
+    "setPiece": 89
+  },
+  {
+    "name": "Bevan Rodd",
+    "club": "Sale Sharks",
+    "positions": [
+      "Loosehead Prop"
+    ],
+    "overall": 82,
+    "attack": 82,
+    "defence": 82,
+    "setPiece": 82
+  },
+  {
+    "name": "Ben Curry",
+    "club": "Sale Sharks",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 90,
+    "attack": 90,
+    "defence": 90,
+    "setPiece": 90
+  },
+  {
+    "name": "Ollie Lawrence",
+    "club": "Bath Rugby",
+    "positions": [
+      "Inside Centre",
+      "Outside Centre"
+    ],
+    "overall": 86,
+    "attack": 86,
+    "defence": 86,
+    "setPiece": 86
+  },
+  {
+    "name": "Pedro Rubiolo",
+    "club": "Bristol Bears",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 89,
+    "attack": 89,
+    "defence": 89,
+    "setPiece": 89
+  },
+  {
+    "name": "Joe Heyes",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 88,
+    "attack": 88,
+    "defence": 88,
+    "setPiece": 88
+  },
+  {
+    "name": "Ollie Chessum",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 89,
+    "attack": 89,
+    "defence": 89,
+    "setPiece": 89
+  },
+  {
+    "name": "Ollie Hassell-Collins",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 85,
+    "attack": 85,
+    "defence": 85,
+    "setPiece": 85
+  },
+  {
+    "name": "George Furbank",
+    "club": "Northampton Saints",
+    "positions": [
+      "Fullback"
+    ],
+    "overall": 89,
+    "attack": 89,
+    "defence": 89,
+    "setPiece": 89
+  },
+  {
+    "name": "Jamie George",
+    "club": "Saracens",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 85,
+    "attack": 85,
+    "defence": 85,
+    "setPiece": 85
+  },
+  {
+    "name": "Beno Obano",
+    "club": "Bath Rugby",
+    "positions": [
+      "Loosehead Prop"
+    ],
+    "overall": 86,
+    "attack": 86,
+    "defence": 86,
+    "setPiece": 86
+  },
+  {
+    "name": "Tom Jordan",
+    "club": "Bristol Bears",
+    "positions": [
+      "Fly-half"
+    ],
+    "overall": 81,
+    "attack": 81,
+    "defence": 81,
+    "setPiece": 81
+  },
+  {
+    "name": "Josh Iosefa-Scott",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 90,
+    "attack": 90,
+    "defence": 90,
+    "setPiece": 90
+  },
+  {
+    "name": "Cadan Murley",
+    "club": "Harlequins",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "Hamish Watson",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 89,
+    "attack": 89,
+    "defence": 89,
+    "setPiece": 89
+  },
+  {
+    "name": "Jack van Poortvliet",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Scrum-half"
+    ],
+    "overall": 80,
+    "attack": 80,
+    "defence": 80,
+    "setPiece": 80
+  },
+  {
+    "name": "Adam Radwan",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 84,
+    "attack": 84,
+    "defence": 84,
+    "setPiece": 84
+  },
+  {
+    "name": "Alex Coles",
+    "club": "Northampton Saints",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 85,
+    "attack": 85,
+    "defence": 85,
+    "setPiece": 85
+  },
+  {
+    "name": "Fraser Dingwall",
+    "club": "Northampton Saints",
+    "positions": [
+      "Inside Centre"
+    ],
+    "overall": 85,
+    "attack": 85,
+    "defence": 85,
+    "setPiece": 85
+  },
+  {
+    "name": "Luke Cowan-Dickie",
+    "club": "Sale Sharks",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 80,
+    "attack": 80,
+    "defence": 80,
+    "setPiece": 80
+  },
+  {
+    "name": "Ernst van Rhyn",
+    "club": "Sale Sharks",
+    "positions": [
+      "Lock",
+      "Flanker"
+    ],
+    "overall": 87,
+    "attack": 87,
+    "defence": 87,
+    "setPiece": 87
+  },
+  {
+    "name": "Nick Isiekwe",
+    "club": "Saracens",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 85,
+    "attack": 85,
+    "defence": 85,
+    "setPiece": 85
+  },
+  {
+    "name": "Juan Martin Gonzalez",
+    "club": "Saracens",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 89,
+    "attack": 89,
+    "defence": 89,
+    "setPiece": 89
+  },
+  {
+    "name": "Max Malins",
+    "club": "Saracens",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "Thomas du Toit",
+    "club": "Bath Rugby",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 92,
+    "attack": 92,
+    "defence": 92,
+    "setPiece": 92
+  },
+  {
+    "name": "Chris Harris",
+    "club": "Bath Rugby",
+    "positions": [
+      "Outside Centre"
+    ],
+    "overall": 87,
+    "attack": 87,
+    "defence": 87,
+    "setPiece": 87
+  },
+  {
+    "name": "Joe Cokanasiga",
+    "club": "Bath Rugby",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 84,
+    "attack": 84,
+    "defence": 84,
+    "setPiece": 84
+  },
+  {
+    "name": "George Kloska",
+    "club": "Bristol Bears",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 92,
+    "attack": 92,
+    "defence": 92,
+    "setPiece": 92
+  },
+  {
+    "name": "Fitz Harding",
+    "club": "Bristol Bears",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 89,
+    "attack": 89,
+    "defence": 89,
+    "setPiece": 89
+  },
+  {
+    "name": "Louis Rees-Zammit",
+    "club": "Bristol Bears",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 84,
+    "attack": 84,
+    "defence": 84,
+    "setPiece": 84
+  },
+  {
+    "name": "Scott Sio",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Loosehead Prop"
+    ],
+    "overall": 85,
+    "attack": 85,
+    "defence": 85,
+    "setPiece": 85
+  },
+  {
+    "name": "Joseph Dweba",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 81,
+    "attack": 81,
+    "defence": 81,
+    "setPiece": 81
+  },
+  {
+    "name": "Len Ikitau",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Outside Centre"
+    ],
+    "overall": 87,
+    "attack": 87,
+    "defence": 87,
+    "setPiece": 87
+  },
+  {
+    "name": "Seb Atkinson",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Inside Centre"
+    ],
+    "overall": 84,
+    "attack": 84,
+    "defence": 84,
+    "setPiece": 84
+  },
+  {
+    "name": "Guido Petti",
+    "club": "Harlequins",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 84,
+    "attack": 84,
+    "defence": 84,
+    "setPiece": 84
+  },
+  {
+    "name": "Tommy Reffell",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 89,
+    "attack": 89,
+    "defence": 89,
+    "setPiece": 89
+  },
+  {
+    "name": "James O'Connor",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Fly-half"
+    ],
+    "overall": 89,
+    "attack": 89,
+    "defence": 89,
+    "setPiece": 89
+  },
+  {
+    "name": "Emmanuel Iyogun",
+    "club": "Northampton Saints",
+    "positions": [
+      "Loosehead Prop"
+    ],
+    "overall": 85,
+    "attack": 85,
+    "defence": 85,
+    "setPiece": 85
+  },
+  {
+    "name": "Rory Hutchinson",
+    "club": "Northampton Saints",
+    "positions": [
+      "Outside Centre"
+    ],
+    "overall": 86,
+    "attack": 86,
+    "defence": 86,
+    "setPiece": 86
+  },
+  {
+    "name": "Ivan van Zyl",
+    "club": "Saracens",
+    "positions": [
+      "Scrum-half"
+    ],
+    "overall": 82,
+    "attack": 82,
+    "defence": 82,
+    "setPiece": 82
+  },
+  {
+    "name": "Ted Hill",
+    "club": "Bath Rugby",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 81,
+    "attack": 81,
+    "defence": 81,
+    "setPiece": 81
+  },
+  {
+    "name": "Christ Tshiunza",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Lock",
+      "Flanker"
+    ],
+    "overall": 85,
+    "attack": 85,
+    "defence": 85,
+    "setPiece": 85
+  },
+  {
+    "name": "Oscar Beard",
+    "club": "Harlequins",
+    "positions": [
+      "Inside Centre",
+      "Outside Centre"
+    ],
+    "overall": 84,
+    "attack": 84,
+    "defence": 84,
+    "setPiece": 84
+  },
+  {
+    "name": "George Martin",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Lock",
+      "Flanker"
+    ],
+    "overall": 82,
+    "attack": 82,
+    "defence": 82,
+    "setPiece": 82
+  },
+  {
+    "name": "Dan du Preez",
+    "club": "Sale Sharks",
+    "positions": [
+      "Number 8"
+    ],
+    "overall": 87,
+    "attack": 87,
+    "defence": 87,
+    "setPiece": 87
+  },
+  {
+    "name": "Raffi Quirke",
+    "club": "Sale Sharks",
+    "positions": [
+      "Scrum-half"
+    ],
+    "overall": 85,
+    "attack": 85,
+    "defence": 85,
+    "setPiece": 85
+  },
+  {
+    "name": "Marius Louw",
+    "club": "Sale Sharks",
+    "positions": [
+      "Inside Centre"
+    ],
+    "overall": 87,
+    "attack": 87,
+    "defence": 87,
+    "setPiece": 87
+  },
+  {
+    "name": "Elliot Daly",
+    "club": "Saracens",
+    "positions": [
+      "Outside Centre",
+      "Fullback"
+    ],
+    "overall": 82,
+    "attack": 82,
+    "defence": 82,
+    "setPiece": 82
+  },
+  {
+    "name": "Alfie Barbeary",
+    "club": "Bath Rugby",
+    "positions": [
+      "Number 8"
+    ],
+    "overall": 87,
+    "attack": 87,
+    "defence": 87,
+    "setPiece": 87
+  },
+  {
+    "name": "Cameron Redpath",
+    "club": "Bath Rugby",
+    "positions": [
+      "Inside Centre"
+    ],
+    "overall": 90,
+    "attack": 90,
+    "defence": 90,
+    "setPiece": 90
+  },
+  {
+    "name": "Santi Carreras",
+    "club": "Bath Rugby",
+    "positions": [
+      "Fullback"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "Max Lahiff",
+    "club": "Bristol Bears",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 86,
+    "attack": 86,
+    "defence": 86,
+    "setPiece": 86
+  },
+  {
+    "name": "Harry Thacker",
+    "club": "Bristol Bears",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 84,
+    "attack": 84,
+    "defence": 84,
+    "setPiece": 84
+  },
+  {
+    "name": "Steven Luatua",
+    "club": "Bristol Bears",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 80,
+    "attack": 80,
+    "defence": 80,
+    "setPiece": 80
+  },
+  {
+    "name": "AJ MacGinty",
+    "club": "Bristol Bears",
+    "positions": [
+      "Fly-half"
+    ],
+    "overall": 88,
+    "attack": 88,
+    "defence": 88,
+    "setPiece": 88
+  },
+  {
+    "name": "Benhard Janse van Rensburg",
+    "club": "Bristol Bears",
+    "positions": [
+      "Inside Centre"
+    ],
+    "overall": 90,
+    "attack": 90,
+    "defence": 90,
+    "setPiece": 90
+  },
+  {
+    "name": "Kalaveti Ravouvou",
+    "club": "Bristol Bears",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 87,
+    "attack": 87,
+    "defence": 87,
+    "setPiece": 87
+  },
+  {
+    "name": "Tom Hooper",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 89,
+    "attack": 89,
+    "defence": 89,
+    "setPiece": 89
+  },
+  {
+    "name": "Stephen Varney",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Scrum-half"
+    ],
+    "overall": 87,
+    "attack": 87,
+    "defence": 87,
+    "setPiece": 87
+  },
+  {
+    "name": "Matias Alemanno",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 80,
+    "attack": 80,
+    "defence": 80,
+    "setPiece": 80
+  },
+  {
+    "name": "Lewis Ludlow",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 80,
+    "attack": 80,
+    "defence": 80,
+    "setPiece": 80
+  },
+  {
+    "name": "Harry Williams",
+    "club": "Harlequins",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 86,
+    "attack": 86,
+    "defence": 86,
+    "setPiece": 86
+  },
+  {
+    "name": "Chandler Cunningham-South",
+    "club": "Harlequins",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 80,
+    "attack": 80,
+    "defence": 80,
+    "setPiece": 80
+  },
+  {
+    "name": "Will Evans",
+    "club": "Harlequins",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 80,
+    "attack": 80,
+    "defence": 80,
+    "setPiece": 80
+  },
+  {
+    "name": "Cam Henderson",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 80,
+    "attack": 80,
+    "defence": 80,
+    "setPiece": 80
+  },
+  {
+    "name": "Emeka Ilione",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Number 8"
+    ],
+    "overall": 87,
+    "attack": 87,
+    "defence": 87,
+    "setPiece": 87
+  },
+  {
+    "name": "Murray McCallum",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Loosehead Prop"
+    ],
+    "overall": 84,
+    "attack": 84,
+    "defence": 84,
+    "setPiece": 84
+  },
+  {
+    "name": "Ben Healy",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Fly-half"
+    ],
+    "overall": 88,
+    "attack": 88,
+    "defence": 88,
+    "setPiece": 88
+  },
+  {
+    "name": "Trevor Davison",
+    "club": "Northampton Saints",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 86,
+    "attack": 86,
+    "defence": 86,
+    "setPiece": 86
+  },
+  {
+    "name": "Curtis Langdon",
+    "club": "Northampton Saints",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 84,
+    "attack": 84,
+    "defence": 84,
+    "setPiece": 84
+  },
+  {
+    "name": "JJ van der Mescht",
+    "club": "Northampton Saints",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 81,
+    "attack": 81,
+    "defence": 81,
+    "setPiece": 81
+  },
+  {
+    "name": "Tom Pearson",
+    "club": "Northampton Saints",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 85,
+    "attack": 85,
+    "defence": 85,
+    "setPiece": 85
+  },
+  {
+    "name": "Ollie Sleightholme",
+    "club": "Northampton Saints",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 82,
+    "attack": 82,
+    "defence": 82,
+    "setPiece": 82
+  },
+  {
+    "name": "Asher Opoku",
+    "club": "Sale Sharks",
+    "positions": [
+      "Tighthead Prop",
+      "Loosehead Prop"
+    ],
+    "overall": 86,
+    "attack": 86,
+    "defence": 86,
+    "setPiece": 86
+  },
+  {
+    "name": "Jacques Vermeulen",
+    "club": "Sale Sharks",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 80,
+    "attack": 80,
+    "defence": 80,
+    "setPiece": 80
+  },
+  {
+    "name": "Tom Roebuck",
+    "club": "Sale Sharks",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 82,
+    "attack": 82,
+    "defence": 82,
+    "setPiece": 82
+  },
+  {
+    "name": "Joe Carpenter",
+    "club": "Sale Sharks",
+    "positions": [
+      "Fullback"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "Marco Riccioni",
+    "club": "Saracens",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 86,
+    "attack": 86,
+    "defence": 86,
+    "setPiece": 86
+  },
+  {
+    "name": "Nick Tompkins",
+    "club": "Saracens",
+    "positions": [
+      "Inside Centre"
+    ],
+    "overall": 90,
+    "attack": 90,
+    "defence": 90,
+    "setPiece": 90
+  },
+  {
+    "name": "Ben Spencer",
+    "club": "Bath Rugby",
+    "positions": [
+      "Scrum-half"
+    ],
+    "overall": 89,
+    "attack": 89,
+    "defence": 89,
+    "setPiece": 89
+  },
+  {
+    "name": "Ross Byrne",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Fly-half"
+    ],
+    "overall": 88,
+    "attack": 88,
+    "defence": 88,
+    "setPiece": 88
+  },
+  {
+    "name": "George Turner",
+    "club": "Harlequins",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 85,
+    "attack": 85,
+    "defence": 85,
+    "setPiece": 85
+  },
+  {
+    "name": "Luke Northmore",
+    "club": "Harlequins",
+    "positions": [
+      "Inside Centre",
+      "Outside Centre"
+    ],
+    "overall": 81,
+    "attack": 81,
+    "defence": 81,
+    "setPiece": 81
+  },
+  {
+    "name": "Izaia Perese",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Outside Centre"
+    ],
+    "overall": 79,
+    "attack": 79,
+    "defence": 79,
+    "setPiece": 79
+  },
+  {
+    "name": "Anthony Belleau",
+    "club": "Northampton Saints",
+    "positions": [
+      "Fly-half"
+    ],
+    "overall": 88,
+    "attack": 88,
+    "defence": 88,
+    "setPiece": 88
+  },
+  {
+    "name": "Aaron Reed",
+    "club": "Sale Sharks",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "Tom Dunn",
+    "club": "Bath Rugby",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 82,
+    "attack": 82,
+    "defence": 82,
+    "setPiece": 82
+  },
+  {
+    "name": "Will Muir",
+    "club": "Bath Rugby",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "Joe Batley",
+    "club": "Bristol Bears",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 88,
+    "attack": 88,
+    "defence": 88,
+    "setPiece": 88
+  },
+  {
+    "name": "Kieran Marmion",
+    "club": "Bristol Bears",
+    "positions": [
+      "Scrum-half"
+    ],
+    "overall": 79,
+    "attack": 79,
+    "defence": 79,
+    "setPiece": 79
+  },
+  {
+    "name": "Matias Moroni",
+    "club": "Bristol Bears",
+    "positions": [
+      "Outside Centre"
+    ],
+    "overall": 79,
+    "attack": 79,
+    "defence": 79,
+    "setPiece": 79
+  },
+  {
+    "name": "Gabriel Ibitoye",
+    "club": "Bristol Bears",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "Jack Yeandle",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 82,
+    "attack": 82,
+    "defence": 82,
+    "setPiece": 82
+  },
+  {
+    "name": "Andrea Zambonin",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 88,
+    "attack": 88,
+    "defence": 88,
+    "setPiece": 88
+  },
+  {
+    "name": "Ethan Roots",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Number 8"
+    ],
+    "overall": 86,
+    "attack": 86,
+    "defence": 86,
+    "setPiece": 86
+  },
+  {
+    "name": "Harvey Skinner",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Fly-half"
+    ],
+    "overall": 88,
+    "attack": 88,
+    "defence": 88,
+    "setPiece": 88
+  },
+  {
+    "name": "Afolabi Fasogbon",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 80,
+    "attack": 80,
+    "defence": 80,
+    "setPiece": 80
+  },
+  {
+    "name": "Cam Jordan",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 88,
+    "attack": 88,
+    "defence": 88,
+    "setPiece": 88
+  },
+  {
+    "name": "Ollie Thorley",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "Fin Baxter",
+    "club": "Harlequins",
+    "positions": [
+      "Loosehead Prop"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "Kieran Treadwell",
+    "club": "Harlequins",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 88,
+    "attack": 88,
+    "defence": 88,
+    "setPiece": 88
+  },
+  {
+    "name": "Rodrigo Isgro",
+    "club": "Harlequins",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "Jamie Blamire",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 86,
+    "attack": 86,
+    "defence": 86,
+    "setPiece": 86
+  },
+  {
+    "name": "Olly Cracknell",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 82,
+    "attack": 82,
+    "defence": 82,
+    "setPiece": 82
+  },
+  {
+    "name": "Orlando Bailey",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Fly-half",
+      "Fullback",
+      "Inside Centre"
+    ],
+    "overall": 86,
+    "attack": 86,
+    "defence": 86,
+    "setPiece": 86
+  },
+  {
+    "name": "Solomone Kata",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Inside Centre"
+    ],
+    "overall": 88,
+    "attack": 88,
+    "defence": 88,
+    "setPiece": 88
+  },
+  {
+    "name": "Simon Benitez-Cruz",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Scrum-half"
+    ],
+    "overall": 79,
+    "attack": 79,
+    "defence": 79,
+    "setPiece": 79
+  },
+  {
+    "name": "Christian Wade",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "Josh Hodge",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Fullback"
+    ],
+    "overall": 84,
+    "attack": 84,
+    "defence": 84,
+    "setPiece": 84
+  },
+  {
+    "name": "Danilo Fischetti",
+    "club": "Northampton Saints",
+    "positions": [
+      "Loosehead Prop"
+    ],
+    "overall": 82,
+    "attack": 82,
+    "defence": 82,
+    "setPiece": 82
+  },
+  {
+    "name": "Callum Chick",
+    "club": "Northampton Saints",
+    "positions": [
+      "Number 8"
+    ],
+    "overall": 86,
+    "attack": 86,
+    "defence": 86,
+    "setPiece": 86
+  },
+  {
+    "name": "Willgriff John",
+    "club": "Sale Sharks",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 80,
+    "attack": 80,
+    "defence": 80,
+    "setPiece": 80
+  },
+  {
+    "name": "Gus Warr",
+    "club": "Sale Sharks",
+    "positions": [
+      "Scrum-half"
+    ],
+    "overall": 79,
+    "attack": 79,
+    "defence": 79,
+    "setPiece": 79
+  },
+  {
+    "name": "Theo Dan",
+    "club": "Saracens",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 82,
+    "attack": 82,
+    "defence": 82,
+    "setPiece": 82
+  },
+  {
+    "name": "Theo McFarland",
+    "club": "Saracens",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 82,
+    "attack": 82,
+    "defence": 82,
+    "setPiece": 82
+  },
+  {
+    "name": "Lucio Cinti",
+    "club": "Saracens",
+    "positions": [
+      "Wing",
+      "Outside Centre"
+    ],
+    "overall": 78,
+    "attack": 78,
+    "defence": 78,
+    "setPiece": 78
+  },
+  {
+    "name": "Ewan Richards",
+    "club": "Bath Rugby",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "Jack Singleton",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 81,
+    "attack": 81,
+    "defence": 81,
+    "setPiece": 81
+  },
+  {
+    "name": "Titi Lamositele",
+    "club": "Harlequins",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 82,
+    "attack": 82,
+    "defence": 82,
+    "setPiece": 82
+  },
+  {
+    "name": "Hanro Liebenberg",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "Rhys Carre",
+    "club": "Saracens",
+    "positions": [
+      "Loosehead Prop"
+    ],
+    "overall": 77,
+    "attack": 77,
+    "defence": 77,
+    "setPiece": 77
+  },
+  {
+    "name": "Andy Onyeama-Christie",
+    "club": "Saracens",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "Billy Sela",
+    "club": "Bath Rugby",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 84,
+    "attack": 84,
+    "defence": 84,
+    "setPiece": 84
+  },
+  {
+    "name": "Quinn Roux",
+    "club": "Bath Rugby",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "Guy Pepper",
+    "club": "Bath Rugby",
+    "positions": [
+      "Number 8"
+    ],
+    "overall": 84,
+    "attack": 84,
+    "defence": 84,
+    "setPiece": 84
+  },
+  {
+    "name": "Santiago Grondona",
+    "club": "Bristol Bears",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "James Williams",
+    "club": "Bristol Bears",
+    "positions": [
+      "Inside Centre"
+    ],
+    "overall": 87,
+    "attack": 87,
+    "defence": 87,
+    "setPiece": 87
+  },
+  {
+    "name": "Rich Lane",
+    "club": "Bristol Bears",
+    "positions": [
+      "Fullback"
+    ],
+    "overall": 85,
+    "attack": 85,
+    "defence": 85,
+    "setPiece": 85
+  },
+  {
+    "name": "Max Norey",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 79,
+    "attack": 79,
+    "defence": 79,
+    "setPiece": 79
+  },
+  {
+    "name": "Val Rapava-Ruskin",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Loosehead Prop"
+    ],
+    "overall": 76,
+    "attack": 76,
+    "defence": 76,
+    "setPiece": 76
+  },
+  {
+    "name": "Josh Basham",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "Max Llewellyn",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Outside Centre"
+    ],
+    "overall": 77,
+    "attack": 77,
+    "defence": 77,
+    "setPiece": 77
+  },
+  {
+    "name": "Josh Hathaway",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Wing",
+      "Fullback"
+    ],
+    "overall": 84,
+    "attack": 84,
+    "defence": 84,
+    "setPiece": 84
+  },
+  {
+    "name": "Pedro Delgado",
+    "club": "Harlequins",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 84,
+    "attack": 84,
+    "defence": 84,
+    "setPiece": 84
+  },
+  {
+    "name": "Stephan Lewies",
+    "club": "Harlequins",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "Jack Kenningham",
+    "club": "Harlequins",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "Jarrod Evans",
+    "club": "Harlequins",
+    "positions": [
+      "Fly-half"
+    ],
+    "overall": 87,
+    "attack": 87,
+    "defence": 87,
+    "setPiece": 87
+  },
+  {
+    "name": "Tarek Haffar",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Loosehead Prop"
+    ],
+    "overall": 76,
+    "attack": 76,
+    "defence": 76,
+    "setPiece": 76
+  },
+  {
+    "name": "Will Hurd",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 84,
+    "attack": 84,
+    "defence": 84,
+    "setPiece": 84
+  },
+  {
+    "name": "Lewis Chessum",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Lock",
+      "Flanker"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "George McGuigan",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 79,
+    "attack": 79,
+    "defence": 79,
+    "setPiece": 79
+  },
+  {
+    "name": "Jamie Hodgson",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "Tom Gordon",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "Sammy Arnold",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Inside Centre"
+    ],
+    "overall": 87,
+    "attack": 87,
+    "defence": 87,
+    "setPiece": 87
+  },
+  {
+    "name": "Tom Lockett",
+    "club": "Northampton Saints",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "Josh Kemeny",
+    "club": "Northampton Saints",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "James Ramm",
+    "club": "Northampton Saints",
+    "positions": [
+      "Fullback",
+      "Wing"
+    ],
+    "overall": 84,
+    "attack": 84,
+    "defence": 84,
+    "setPiece": 84
+  },
+  {
+    "name": "Simon McIntyre",
+    "club": "Sale Sharks",
+    "positions": [
+      "Loosehead Prop"
+    ],
+    "overall": 76,
+    "attack": 76,
+    "defence": 76,
+    "setPiece": 76
+  },
+  {
+    "name": "Hyron Andrews",
+    "club": "Sale Sharks",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "Hugh Tizard",
+    "club": "Saracens",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "Fergus Burke",
+    "club": "Saracens",
+    "positions": [
+      "Fly-half"
+    ],
+    "overall": 87,
+    "attack": 87,
+    "defence": 87,
+    "setPiece": 87
+  },
+  {
+    "name": "Tobias Elliott",
+    "club": "Saracens",
+    "positions": [
+      "Fullback"
+    ],
+    "overall": 85,
+    "attack": 85,
+    "defence": 85,
+    "setPiece": 85
+  },
+  {
+    "name": "Dan Frost",
+    "club": "Bath Rugby",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 80,
+    "attack": 80,
+    "defence": 80,
+    "setPiece": 80
+  },
+  {
+    "name": "Jake Woolmore",
+    "club": "Bristol Bears",
+    "positions": [
+      "Loosehead Prop"
+    ],
+    "overall": 75,
+    "attack": 75,
+    "defence": 75,
+    "setPiece": 75
+  },
+  {
+    "name": "James Dun",
+    "club": "Bristol Bears",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 80,
+    "attack": 80,
+    "defence": 80,
+    "setPiece": 80
+  },
+  {
+    "name": "Ehren Painter",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 84,
+    "attack": 84,
+    "defence": 84,
+    "setPiece": 84
+  },
+  {
+    "name": "Ross Vintcent",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "Seb Blake",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 80,
+    "attack": 80,
+    "defence": 80,
+    "setPiece": 80
+  },
+  {
+    "name": "Arthur Clark",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 80,
+    "attack": 80,
+    "defence": 80,
+    "setPiece": 80
+  },
+  {
+    "name": "Jack Clement",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "Boris Wenger",
+    "club": "Harlequins",
+    "positions": [
+      "Loosehead Prop"
+    ],
+    "overall": 75,
+    "attack": 75,
+    "defence": 75,
+    "setPiece": 75
+  },
+  {
+    "name": "James Chisholm",
+    "club": "Harlequins",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "Stu Townsend",
+    "club": "Harlequins",
+    "positions": [
+      "Scrum-half"
+    ],
+    "overall": 80,
+    "attack": 80,
+    "defence": 80,
+    "setPiece": 80
+  },
+  {
+    "name": "Tyrone Green",
+    "club": "Harlequins",
+    "positions": [
+      "Wing",
+      "Fullback"
+    ],
+    "overall": 85,
+    "attack": 85,
+    "defence": 85,
+    "setPiece": 85
+  },
+  {
+    "name": "Adam Brocklebank",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Loosehead Prop"
+    ],
+    "overall": 75,
+    "attack": 75,
+    "defence": 75,
+    "setPiece": 75
+  },
+  {
+    "name": "Hame Faiva",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 80,
+    "attack": 80,
+    "defence": 80,
+    "setPiece": 80
+  },
+  {
+    "name": "Freddie Clarke",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Lock",
+      "Flanker"
+    ],
+    "overall": 82,
+    "attack": 82,
+    "defence": 82,
+    "setPiece": 82
+  },
+  {
+    "name": "Tom Christie",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "Tom James",
+    "club": "Northampton Saints",
+    "positions": [
+      "Scrum-half"
+    ],
+    "overall": 80,
+    "attack": 80,
+    "defence": 80,
+    "setPiece": 80
+  },
+  {
+    "name": "George Hendy",
+    "club": "Northampton Saints",
+    "positions": [
+      "Fullback"
+    ],
+    "overall": 85,
+    "attack": 85,
+    "defence": 85,
+    "setPiece": 85
+  },
+  {
+    "name": "Ben Bamber",
+    "club": "Sale Sharks",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 80,
+    "attack": 80,
+    "defence": 80,
+    "setPiece": 80
+  },
+  {
+    "name": "Rob du Preez",
+    "club": "Sale Sharks",
+    "positions": [
+      "Fly-half",
+      "Inside Centre"
+    ],
+    "overall": 86,
+    "attack": 86,
+    "defence": 86,
+    "setPiece": 86
+  },
+  {
+    "name": "Archie Griffin",
+    "club": "Bath Rugby",
+    "positions": [
+      "Loosehead Prop"
+    ],
+    "overall": 74,
+    "attack": 74,
+    "defence": 74,
+    "setPiece": 74
+  },
+  {
+    "name": "Jaco Coetzee",
+    "club": "Bath Rugby",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 84,
+    "attack": 84,
+    "defence": 84,
+    "setPiece": 84
+  },
+  {
+    "name": "Tom de Glanville",
+    "club": "Bath Rugby",
+    "positions": [
+      "Fullback"
+    ],
+    "overall": 84,
+    "attack": 84,
+    "defence": 84,
+    "setPiece": 84
+  },
+  {
+    "name": "Will Capon",
+    "club": "Bristol Bears",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 80,
+    "attack": 80,
+    "defence": 80,
+    "setPiece": 80
+  },
+  {
+    "name": "Luka Ivanishvili",
+    "club": "Bristol Bears",
+    "positions": [
+      "Number 8"
+    ],
+    "overall": 87,
+    "attack": 87,
+    "defence": 87,
+    "setPiece": 87
+  },
+  {
+    "name": "Jack Bates",
+    "club": "Bristol Bears",
+    "positions": [
+      "Outside Centre",
+      "Wing"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "Mat Protheroe",
+    "club": "Bristol Bears",
+    "positions": [
+      "Fullback"
+    ],
+    "overall": 84,
+    "attack": 84,
+    "defence": 84,
+    "setPiece": 84
+  },
+  {
+    "name": "Will Goodrick-Clarke",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Loosehead Prop"
+    ],
+    "overall": 74,
+    "attack": 74,
+    "defence": 74,
+    "setPiece": 74
+  },
+  {
+    "name": "Julian Heaven",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 80,
+    "attack": 80,
+    "defence": 80,
+    "setPiece": 80
+  },
+  {
+    "name": "Rusi Tuima",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 74,
+    "attack": 74,
+    "defence": 74,
+    "setPiece": 74
+  },
+  {
+    "name": "Charlie Chapman",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Scrum-half"
+    ],
+    "overall": 80,
+    "attack": 80,
+    "defence": 80,
+    "setPiece": 80
+  },
+  {
+    "name": "Olly Woodburn",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 85,
+    "attack": 85,
+    "defence": 85,
+    "setPiece": 85
+  },
+  {
+    "name": "Freddie Thomas",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 74,
+    "attack": 74,
+    "defence": 74,
+    "setPiece": 74
+  },
+  {
+    "name": "James Venter",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 84,
+    "attack": 84,
+    "defence": 84,
+    "setPiece": 84
+  },
+  {
+    "name": "Ben Loader",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 85,
+    "attack": 85,
+    "defence": 85,
+    "setPiece": 85
+  },
+  {
+    "name": "Ben Redshaw",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Fullback"
+    ],
+    "overall": 82,
+    "attack": 82,
+    "defence": 82,
+    "setPiece": 82
+  },
+  {
+    "name": "Jack Walker",
+    "club": "Harlequins",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 80,
+    "attack": 80,
+    "defence": 80,
+    "setPiece": 80
+  },
+  {
+    "name": "Joe Launchbury",
+    "club": "Harlequins",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 74,
+    "attack": 74,
+    "defence": 74,
+    "setPiece": 74
+  },
+  {
+    "name": "Will Porter",
+    "club": "Harlequins",
+    "positions": [
+      "Scrum-half"
+    ],
+    "overall": 80,
+    "attack": 80,
+    "defence": 80,
+    "setPiece": 80
+  },
+  {
+    "name": "Cassius Cleaves",
+    "club": "Harlequins",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 85,
+    "attack": 85,
+    "defence": 85,
+    "setPiece": 85
+  },
+  {
+    "name": "Cameron Anderson",
+    "club": "Harlequins",
+    "positions": [
+      "Fullback"
+    ],
+    "overall": 84,
+    "attack": 84,
+    "defence": 84,
+    "setPiece": 84
+  },
+  {
+    "name": "Charlie Clare",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 80,
+    "attack": 80,
+    "defence": 80,
+    "setPiece": 80
+  },
+  {
+    "name": "Eduardo Bello",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "Fergus Lee-Warner",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Lock",
+      "Flanker"
+    ],
+    "overall": 84,
+    "attack": 84,
+    "defence": 84,
+    "setPiece": 84
+  },
+  {
+    "name": "Sam Graham",
+    "club": "Northampton Saints",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 84,
+    "attack": 84,
+    "defence": 84,
+    "setPiece": 84
+  },
+  {
+    "name": "James Harper",
+    "club": "Sale Sharks",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "Nathan Jibulu",
+    "club": "Sale Sharks",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 80,
+    "attack": 80,
+    "defence": 80,
+    "setPiece": 80
+  },
+  {
+    "name": "Sam Dugdale",
+    "club": "Sale Sharks",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 84,
+    "attack": 84,
+    "defence": 84,
+    "setPiece": 84
+  },
+  {
+    "name": "Tom O'Flaherty",
+    "club": "Sale Sharks",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 85,
+    "attack": 85,
+    "defence": 85,
+    "setPiece": 85
+  },
+  {
+    "name": "Alex Lozowski",
+    "club": "Saracens",
+    "positions": [
+      "Outside Centre"
+    ],
+    "overall": 81,
+    "attack": 81,
+    "defence": 81,
+    "setPiece": 81
+  },
+  {
+    "name": "Ross Molony",
+    "club": "Bath Rugby",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 73,
+    "attack": 73,
+    "defence": 73,
+    "setPiece": 73
+  },
+  {
+    "name": "Josh Bayliss",
+    "club": "Bath Rugby",
+    "positions": [
+      "Number 8"
+    ],
+    "overall": 84,
+    "attack": 84,
+    "defence": 84,
+    "setPiece": 84
+  },
+  {
+    "name": "Joe Owen",
+    "club": "Bristol Bears",
+    "positions": [
+      "Lock",
+      "Flanker"
+    ],
+    "overall": 84,
+    "attack": 84,
+    "defence": 84,
+    "setPiece": 84
+  },
+  {
+    "name": "Tamati Tua",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Outside Centre"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "Ben Hammersley",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Fullback"
+    ],
+    "overall": 73,
+    "attack": 73,
+    "defence": 73,
+    "setPiece": 73
+  },
+  {
+    "name": "Jamal Ford-Robinson",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Loosehead Prop"
+    ],
+    "overall": 73,
+    "attack": 73,
+    "defence": 73,
+    "setPiece": 73
+  },
+  {
+    "name": "Jack Innard",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 81,
+    "attack": 81,
+    "defence": 81,
+    "setPiece": 81
+  },
+  {
+    "name": "Will Joseph",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Outside Centre"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "Hayden Hyde",
+    "club": "Harlequins",
+    "positions": [
+      "Wing",
+      "Outside Centre"
+    ],
+    "overall": 84,
+    "attack": 84,
+    "defence": 84,
+    "setPiece": 84
+  },
+  {
+    "name": "Harry Wells",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 73,
+    "attack": 73,
+    "defence": 73,
+    "setPiece": 73
+  },
+  {
+    "name": "Billy Searle",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Fly-half"
+    ],
+    "overall": 86,
+    "attack": 86,
+    "defence": 86,
+    "setPiece": 86
+  },
+  {
+    "name": "Luan De Bruin",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "Brett Connon",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Fly-half"
+    ],
+    "overall": 75,
+    "attack": 75,
+    "defence": 75,
+    "setPiece": 75
+  },
+  {
+    "name": "Alex Hearle",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 84,
+    "attack": 84,
+    "defence": 84,
+    "setPiece": 84
+  },
+  {
+    "name": "Luke Green",
+    "club": "Northampton Saints",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "Rekeiti Ma'asi-White",
+    "club": "Sale Sharks",
+    "positions": [
+      "Outside Centre"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "Tietie Tuimauga",
+    "club": "Saracens",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "Rotimi Segun",
+    "club": "Saracens",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 84,
+    "attack": 84,
+    "defence": 84,
+    "setPiece": 84
+  },
+  {
+    "name": "Francois van Wyk",
+    "club": "Bath Rugby",
+    "positions": [
+      "Loosehead Prop"
+    ],
+    "overall": 72,
+    "attack": 72,
+    "defence": 72,
+    "setPiece": 72
+  },
+  {
+    "name": "Ciaran Donoghue",
+    "club": "Bath Rugby",
+    "positions": [
+      "Fly-half"
+    ],
+    "overall": 72,
+    "attack": 72,
+    "defence": 72,
+    "setPiece": 72
+  },
+  {
+    "name": "Max Ojomoh",
+    "club": "Bath Rugby",
+    "positions": [
+      "Inside Centre",
+      "Outside Centre"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "Toby Fricker",
+    "club": "Bristol Bears",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "Noah Heward",
+    "club": "Bristol Bears",
+    "positions": [
+      "Fullback"
+    ],
+    "overall": 72,
+    "attack": 72,
+    "defence": 72,
+    "setPiece": 72
+  },
+  {
+    "name": "Bachuki Tchumbadze",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "Dan John",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Inside Centre"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "Jack Musk",
+    "club": "Harlequins",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 81,
+    "attack": 81,
+    "defence": 81,
+    "setPiece": 81
+  },
+  {
+    "name": "Gabe Hamer-Webb",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "Amanaki Mafi",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Number 8"
+    ],
+    "overall": 88,
+    "attack": 88,
+    "defence": 88,
+    "setPiece": 88
+  },
+  {
+    "name": "Tom Litchfield",
+    "club": "Northampton Saints",
+    "positions": [
+      "Inside Centre"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "Luke James",
+    "club": "Sale Sharks",
+    "positions": [
+      "Fullback",
+      "Outside Centre"
+    ],
+    "overall": 85,
+    "attack": 85,
+    "defence": 85,
+    "setPiece": 85
+  },
+  {
+    "name": "Ethan Burger",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Loosehead Prop"
+    ],
+    "overall": 71,
+    "attack": 71,
+    "defence": 71,
+    "setPiece": 71
+  },
+  {
+    "name": "Richard Capstick",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 71,
+    "attack": 71,
+    "defence": 71,
+    "setPiece": 71
+  },
+  {
+    "name": "Will Haydon-Wood",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Fly-half"
+    ],
+    "overall": 71,
+    "attack": 71,
+    "defence": 71,
+    "setPiece": 71
+  },
+  {
+    "name": "Ciaran Knight",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Loosehead Prop",
+      "Tighthead Prop"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "Callum Braley",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Scrum-half"
+    ],
+    "overall": 81,
+    "attack": 81,
+    "defence": 81,
+    "setPiece": 81
+  },
+  {
+    "name": "Jordan Els",
+    "club": "Harlequins",
+    "positions": [
+      "Loosehead Prop"
+    ],
+    "overall": 71,
+    "attack": 71,
+    "defence": 71,
+    "setPiece": 71
+  },
+  {
+    "name": "Joaquin Moro",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Number 8"
+    ],
+    "overall": 88,
+    "attack": 88,
+    "defence": 88,
+    "setPiece": 88
+  },
+  {
+    "name": "Will Wand",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Outside Centre"
+    ],
+    "overall": 87,
+    "attack": 87,
+    "defence": 87,
+    "setPiece": 87
+  },
+  {
+    "name": "Richard Palframan",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "Cameron Neild",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 71,
+    "attack": 71,
+    "defence": 71,
+    "setPiece": 71
+  },
+  {
+    "name": "Cammy Hutchison",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Outside Centre"
+    ],
+    "overall": 87,
+    "attack": 87,
+    "defence": 87,
+    "setPiece": 87
+  },
+  {
+    "name": "Cleopas Kundiona",
+    "club": "Northampton Saints",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 83,
+    "attack": 83,
+    "defence": 83,
+    "setPiece": 83
+  },
+  {
+    "name": "Chunya Munga",
+    "club": "Northampton Saints",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 71,
+    "attack": 71,
+    "defence": 71,
+    "setPiece": 71
+  },
+  {
+    "name": "Eroni Mawi",
+    "club": "Saracens",
+    "positions": [
+      "Loosehead Prop"
+    ],
+    "overall": 71,
+    "attack": 71,
+    "defence": 71,
+    "setPiece": 71
+  },
+  {
+    "name": "Miles Reid",
+    "club": "Bath Rugby",
+    "positions": [
+      "Number 8"
+    ],
+    "overall": 88,
+    "attack": 88,
+    "defence": 88,
+    "setPiece": 88
+  },
+  {
+    "name": "Lovejoy Chawatama",
+    "club": "Bristol Bears",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 82,
+    "attack": 82,
+    "defence": 82,
+    "setPiece": 82
+  },
+  {
+    "name": "Gabriel Oghre",
+    "club": "Bristol Bears",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 82,
+    "attack": 82,
+    "defence": 82,
+    "setPiece": 82
+  },
+  {
+    "name": "Benjamin Grondona",
+    "club": "Bristol Bears",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 70,
+    "attack": 70,
+    "defence": 70,
+    "setPiece": 70
+  },
+  {
+    "name": "Max Pepper",
+    "club": "Bristol Bears",
+    "positions": [
+      "Scrum-half",
+      "Wing"
+    ],
+    "overall": 81,
+    "attack": 81,
+    "defence": 81,
+    "setPiece": 81
+  },
+  {
+    "name": "Jimmy Roots",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 82,
+    "attack": 82,
+    "defence": 82,
+    "setPiece": 82
+  },
+  {
+    "name": "Lewis Pearson",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 70,
+    "attack": 70,
+    "defence": 70,
+    "setPiece": 70
+  },
+  {
+    "name": "Greg Fisilau",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Number 8"
+    ],
+    "overall": 88,
+    "attack": 88,
+    "defence": 88,
+    "setPiece": 88
+  },
+  {
+    "name": "Will Rigg",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Inside Centre"
+    ],
+    "overall": 70,
+    "attack": 70,
+    "defence": 70,
+    "setPiece": 70
+  },
+  {
+    "name": "Kirill Gotovtsev",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 82,
+    "attack": 82,
+    "defence": 82,
+    "setPiece": 82
+  },
+  {
+    "name": "Hugh Bokenham",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 70,
+    "attack": 70,
+    "defence": 70,
+    "setPiece": 70
+  },
+  {
+    "name": "Jack Mann",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Number 8"
+    ],
+    "overall": 88,
+    "attack": 88,
+    "defence": 88,
+    "setPiece": 88
+  },
+  {
+    "name": "Charlie Atkinson",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Fly-half"
+    ],
+    "overall": 70,
+    "attack": 70,
+    "defence": 70,
+    "setPiece": 70
+  },
+  {
+    "name": "Jake Morris",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 70,
+    "attack": 70,
+    "defence": 70,
+    "setPiece": 70
+  },
+  {
+    "name": "George Barton",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Fullback"
+    ],
+    "overall": 70,
+    "attack": 70,
+    "defence": 70,
+    "setPiece": 70
+  },
+  {
+    "name": "Joe Jones",
+    "club": "Harlequins",
+    "positions": [
+      "Loosehead Prop"
+    ],
+    "overall": 70,
+    "attack": 70,
+    "defence": 70,
+    "setPiece": 70
+  },
+  {
+    "name": "Sam Riley",
+    "club": "Harlequins",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 75,
+    "attack": 75,
+    "defence": 75,
+    "setPiece": 75
+  },
+  {
+    "name": "Tom Lawday",
+    "club": "Harlequins",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 70,
+    "attack": 70,
+    "defence": 70,
+    "setPiece": 70
+  },
+  {
+    "name": "Jamie Benson",
+    "club": "Harlequins",
+    "positions": [
+      "Fly-half"
+    ],
+    "overall": 70,
+    "attack": 70,
+    "defence": 70,
+    "setPiece": 70
+  },
+  {
+    "name": "Bryn Bradley",
+    "club": "Harlequins",
+    "positions": [
+      "Inside Centre"
+    ],
+    "overall": 70,
+    "attack": 70,
+    "defence": 70,
+    "setPiece": 70
+  },
+  {
+    "name": "Nick David",
+    "club": "Harlequins",
+    "positions": [
+      "Wing",
+      "Fullback"
+    ],
+    "overall": 70,
+    "attack": 70,
+    "defence": 70,
+    "setPiece": 70
+  },
+  {
+    "name": "Finn Theobald-Thomas",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 79,
+    "attack": 79,
+    "defence": 79,
+    "setPiece": 79
+  },
+  {
+    "name": "Tom Whiteley",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Scrum-half"
+    ],
+    "overall": 81,
+    "attack": 81,
+    "defence": 81,
+    "setPiece": 81
+  },
+  {
+    "name": "Ollie Fletcher",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 79,
+    "attack": 79,
+    "defence": 79,
+    "setPiece": 79
+  },
+  {
+    "name": "Sam Stuart",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Scrum-half"
+    ],
+    "overall": 81,
+    "attack": 81,
+    "defence": 81,
+    "setPiece": 81
+  },
+  {
+    "name": "Boeta Chamberlain",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Fly-half",
+      "Fullback"
+    ],
+    "overall": 70,
+    "attack": 70,
+    "defence": 70,
+    "setPiece": 70
+  },
+  {
+    "name": "Oli Spencer",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Fullback",
+      "Wing",
+      "Outside Centre"
+    ],
+    "overall": 70,
+    "attack": 70,
+    "defence": 70,
+    "setPiece": 70
+  },
+  {
+    "name": "Tom West",
+    "club": "Northampton Saints",
+    "positions": [
+      "Loosehead Prop"
+    ],
+    "overall": 70,
+    "attack": 70,
+    "defence": 70,
+    "setPiece": 70
+  },
+  {
+    "name": "Elliot Millar-Mills",
+    "club": "Northampton Saints",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 82,
+    "attack": 82,
+    "defence": 82,
+    "setPiece": 82
+  },
+  {
+    "name": "Robbie Smith",
+    "club": "Northampton Saints",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 79,
+    "attack": 79,
+    "defence": 79,
+    "setPiece": 79
+  },
+  {
+    "name": "Amena Caqusau",
+    "club": "Northampton Saints",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 70,
+    "attack": 70,
+    "defence": 70,
+    "setPiece": 70
+  },
+  {
+    "name": "Phil Brantingham",
+    "club": "Saracens",
+    "positions": [
+      "Loosehead Prop"
+    ],
+    "overall": 70,
+    "attack": 70,
+    "defence": 70,
+    "setPiece": 70
+  },
+  {
+    "name": "Vilikesa Nairau",
+    "club": "Saracens",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 82,
+    "attack": 82,
+    "defence": 82,
+    "setPiece": 82
+  },
+  {
+    "name": "Charlie Bracken",
+    "club": "Saracens",
+    "positions": [
+      "Scrum-half"
+    ],
+    "overall": 81,
+    "attack": 81,
+    "defence": 81,
+    "setPiece": 81
+  },
+  {
+    "name": "Olly Hartley",
+    "club": "Saracens",
+    "positions": [
+      "Outside Centre"
+    ],
+    "overall": 70,
+    "attack": 70,
+    "defence": 70,
+    "setPiece": 70
+  },
+  {
+    "name": "Tom Carr-Smith",
+    "club": "Bath Rugby",
+    "positions": [
+      "Scrum-half"
+    ],
+    "overall": 84,
+    "attack": 84,
+    "defence": 84,
+    "setPiece": 84
+  },
+  {
+    "name": "Khwezi Mona",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Loosehead Prop"
+    ],
+    "overall": 69,
+    "attack": 69,
+    "defence": 69,
+    "setPiece": 69
+  },
+  {
+    "name": "Kane James",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 69,
+    "attack": 69,
+    "defence": 69,
+    "setPiece": 69
+  },
+  {
+    "name": "Tom Manz",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 69,
+    "attack": 69,
+    "defence": 69,
+    "setPiece": 69
+  },
+  {
+    "name": "Marcus Street",
+    "club": "Saracens",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 82,
+    "attack": 82,
+    "defence": 82,
+    "setPiece": 82
+  },
+  {
+    "name": "Mikey Summerfield",
+    "club": "Bath Rugby",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 68,
+    "attack": 68,
+    "defence": 68,
+    "setPiece": 68
+  },
+  {
+    "name": "Jasper Spandler",
+    "club": "Bath Rugby",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 68,
+    "attack": 68,
+    "defence": 68,
+    "setPiece": 68
+  },
+  {
+    "name": "Sam Grahamslaw",
+    "club": "Bristol Bears",
+    "positions": [
+      "Loosehead Prop"
+    ],
+    "overall": 68,
+    "attack": 68,
+    "defence": 68,
+    "setPiece": 68
+  },
+  {
+    "name": "Sam Wolstenholme",
+    "club": "Bristol Bears",
+    "positions": [
+      "Scrum-half"
+    ],
+    "overall": 87,
+    "attack": 87,
+    "defence": 87,
+    "setPiece": 87
+  },
+  {
+    "name": "Sam Worsley",
+    "club": "Bristol Bears",
+    "positions": [
+      "Fly-half"
+    ],
+    "overall": 68,
+    "attack": 68,
+    "defence": 68,
+    "setPiece": 68
+  },
+  {
+    "name": "Joe Jenkins",
+    "club": "Bristol Bears",
+    "positions": [
+      "Inside Centre"
+    ],
+    "overall": 68,
+    "attack": 68,
+    "defence": 68,
+    "setPiece": 68
+  },
+  {
+    "name": "Benjamin Elizalde",
+    "club": "Bristol Bears",
+    "positions": [
+      "Fullback"
+    ],
+    "overall": 68,
+    "attack": 68,
+    "defence": 68,
+    "setPiece": 68
+  },
+  {
+    "name": "Kwenzo Blose",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Loosehead Prop"
+    ],
+    "overall": 68,
+    "attack": 68,
+    "defence": 68,
+    "setPiece": 68
+  },
+  {
+    "name": "Martin Moloney",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Number 8"
+    ],
+    "overall": 68,
+    "attack": 68,
+    "defence": 68,
+    "setPiece": 68
+  },
+  {
+    "name": "Tom Cairns",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Scrum-half"
+    ],
+    "overall": 87,
+    "attack": 87,
+    "defence": 87,
+    "setPiece": 87
+  },
+  {
+    "name": "Paul Brown-Bampoe",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 68,
+    "attack": 68,
+    "defence": 68,
+    "setPiece": 68
+  },
+  {
+    "name": "Tommy Wyatt",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Fullback"
+    ],
+    "overall": 68,
+    "attack": 68,
+    "defence": 68,
+    "setPiece": 68
+  },
+  {
+    "name": "Jono Benz-Salomon",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 68,
+    "attack": 68,
+    "defence": 68,
+    "setPiece": 68
+  },
+  {
+    "name": "Harry Taylor",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 68,
+    "attack": 68,
+    "defence": 68,
+    "setPiece": 68
+  },
+  {
+    "name": "Caolan Englefield",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Scrum-half"
+    ],
+    "overall": 87,
+    "attack": 87,
+    "defence": 87,
+    "setPiece": 87
+  },
+  {
+    "name": "Harrison James",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Fly-half"
+    ],
+    "overall": 68,
+    "attack": 68,
+    "defence": 68,
+    "setPiece": 68
+  },
+  {
+    "name": "Will Butler",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Inside Centre"
+    ],
+    "overall": 68,
+    "attack": 68,
+    "defence": 68,
+    "setPiece": 68
+  },
+  {
+    "name": "Rob Russell",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 68,
+    "attack": 68,
+    "defence": 68,
+    "setPiece": 68
+  },
+  {
+    "name": "Simon Kerrod",
+    "club": "Harlequins",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 68,
+    "attack": 68,
+    "defence": 68,
+    "setPiece": 68
+  },
+  {
+    "name": "Jonny Green",
+    "club": "Harlequins",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 68,
+    "attack": 68,
+    "defence": 68,
+    "setPiece": 68
+  },
+  {
+    "name": "Oisin McCormack",
+    "club": "Harlequins",
+    "positions": [
+      "Number 8"
+    ],
+    "overall": 68,
+    "attack": 68,
+    "defence": 68,
+    "setPiece": 68
+  },
+  {
+    "name": "Max Green",
+    "club": "Harlequins",
+    "positions": [
+      "Scrum-half"
+    ],
+    "overall": 87,
+    "attack": 87,
+    "defence": 87,
+    "setPiece": 87
+  },
+  {
+    "name": "Archie van der Flier",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Loosehead Prop"
+    ],
+    "overall": 68,
+    "attack": 68,
+    "defence": 68,
+    "setPiece": 68
+  },
+  {
+    "name": "Ale Loman",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 68,
+    "attack": 68,
+    "defence": 68,
+    "setPiece": 68
+  },
+  {
+    "name": "John Stewart",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 68,
+    "attack": 68,
+    "defence": 68,
+    "setPiece": 68
+  },
+  {
+    "name": "Max Clark",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Inside Centre"
+    ],
+    "overall": 68,
+    "attack": 68,
+    "defence": 68,
+    "setPiece": 68
+  },
+  {
+    "name": "Elliott Obatoyinbo",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Wing",
+      "Fullback"
+    ],
+    "overall": 68,
+    "attack": 68,
+    "defence": 68,
+    "setPiece": 68
+  },
+  {
+    "name": "Ethan Grayson",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Fullback"
+    ],
+    "overall": 68,
+    "attack": 68,
+    "defence": 68,
+    "setPiece": 68
+  },
+  {
+    "name": "Marco Manfredi",
+    "club": "Northampton Saints",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 68,
+    "attack": 68,
+    "defence": 68,
+    "setPiece": 68
+  },
+  {
+    "name": "Archie McParland",
+    "club": "Northampton Saints",
+    "positions": [
+      "Scrum-half"
+    ],
+    "overall": 87,
+    "attack": 87,
+    "defence": 87,
+    "setPiece": 87
+  },
+  {
+    "name": "Tumy Onasanya",
+    "club": "Sale Sharks",
+    "positions": [
+      "Loosehead Prop"
+    ],
+    "overall": 68,
+    "attack": 68,
+    "defence": 68,
+    "setPiece": 68
+  },
+  {
+    "name": "Ethan Caine",
+    "club": "Sale Sharks",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 68,
+    "attack": 68,
+    "defence": 68,
+    "setPiece": 68
+  },
+  {
+    "name": "Reuben Logan",
+    "club": "Sale Sharks",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 68,
+    "attack": 68,
+    "defence": 68,
+    "setPiece": 68
+  },
+  {
+    "name": "Nye Thomas",
+    "club": "Sale Sharks",
+    "positions": [
+      "Scrum-half"
+    ],
+    "overall": 87,
+    "attack": 87,
+    "defence": 87,
+    "setPiece": 87
+  },
+  {
+    "name": "Obi Ene",
+    "club": "Sale Sharks",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 68,
+    "attack": 68,
+    "defence": 68,
+    "setPiece": 68
+  },
+  {
+    "name": "Alec Clarey",
+    "club": "Saracens",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 68,
+    "attack": 68,
+    "defence": 68,
+    "setPiece": 68
+  },
+  {
+    "name": "Eoghan Clarke",
+    "club": "Saracens",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 68,
+    "attack": 68,
+    "defence": 68,
+    "setPiece": 68
+  },
+  {
+    "name": "Harry Wilson",
+    "club": "Saracens",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 68,
+    "attack": 68,
+    "defence": 68,
+    "setPiece": 68
+  },
+  {
+    "name": "Louie Johnson",
+    "club": "Saracens",
+    "positions": [
+      "Fly-half"
+    ],
+    "overall": 68,
+    "attack": 68,
+    "defence": 68,
+    "setPiece": 68
+  },
+  {
+    "name": "Thompson Cowan",
+    "club": "Bath Rugby",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 67,
+    "attack": 67,
+    "defence": 67,
+    "setPiece": 67
+  },
+  {
+    "name": "Bernard van der Linde",
+    "club": "Bath Rugby",
+    "positions": [
+      "Scrum-half"
+    ],
+    "overall": 67,
+    "attack": 67,
+    "defence": 67,
+    "setPiece": 67
+  },
+  {
+    "name": "Sam Harris",
+    "club": "Bath Rugby",
+    "positions": [
+      "Fly-half"
+    ],
+    "overall": 67,
+    "attack": 67,
+    "defence": 67,
+    "setPiece": 67
+  },
+  {
+    "name": "Will Butt",
+    "club": "Bath Rugby",
+    "positions": [
+      "Inside Centre",
+      "Outside Centre"
+    ],
+    "overall": 67,
+    "attack": 67,
+    "defence": 67,
+    "setPiece": 67
+  },
+  {
+    "name": "Austin Emens",
+    "club": "Bath Rugby",
+    "positions": [
+      "Fullback"
+    ],
+    "overall": 67,
+    "attack": 67,
+    "defence": 67,
+    "setPiece": 67
+  },
+  {
+    "name": "Steele Barker",
+    "club": "Bristol Bears",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 67,
+    "attack": 67,
+    "defence": 67,
+    "setPiece": 67
+  },
+  {
+    "name": "Paddy Pearce",
+    "club": "Bristol Bears",
+    "positions": [
+      "Number 8"
+    ],
+    "overall": 67,
+    "attack": 67,
+    "defence": 67,
+    "setPiece": 67
+  },
+  {
+    "name": "Danny Eite",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 67,
+    "attack": 67,
+    "defence": 67,
+    "setPiece": 67
+  },
+  {
+    "name": "Jack Grant",
+    "club": "Harlequins",
+    "positions": [
+      "Scrum-half"
+    ],
+    "overall": 67,
+    "attack": 67,
+    "defence": 67,
+    "setPiece": 67
+  },
+  {
+    "name": "James Thompson",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 67,
+    "attack": 67,
+    "defence": 67,
+    "setPiece": 67
+  },
+  {
+    "name": "James Cherry",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 67,
+    "attack": 67,
+    "defence": 67,
+    "setPiece": 67
+  },
+  {
+    "name": "Joe Woodward",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Inside Centre"
+    ],
+    "overall": 67,
+    "attack": 67,
+    "defence": 67,
+    "setPiece": 67
+  },
+  {
+    "name": "John Hawkins",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 67,
+    "attack": 67,
+    "defence": 67,
+    "setPiece": 67
+  },
+  {
+    "name": "Joe Bedlow",
+    "club": "Sale Sharks",
+    "positions": [
+      "Inside Centre"
+    ],
+    "overall": 67,
+    "attack": 67,
+    "defence": 67,
+    "setPiece": 67
+  },
+  {
+    "name": "Kieran Verden",
+    "club": "Bath Rugby",
+    "positions": [
+      "Loosehead Prop"
+    ],
+    "overall": 66,
+    "attack": 66,
+    "defence": 66,
+    "setPiece": 66
+  },
+  {
+    "name": "Ethan Staddon",
+    "club": "Bath Rugby",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 66,
+    "attack": 66,
+    "defence": 66,
+    "setPiece": 66
+  },
+  {
+    "name": "Louie Hennessey",
+    "club": "Bath Rugby",
+    "positions": [
+      "Outside Centre"
+    ],
+    "overall": 66,
+    "attack": 66,
+    "defence": 66,
+    "setPiece": 66
+  },
+  {
+    "name": "Louie Gulley",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 66,
+    "attack": 66,
+    "defence": 66,
+    "setPiece": 66
+  },
+  {
+    "name": "Archie McArthur",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Loosehead Prop"
+    ],
+    "overall": 66,
+    "attack": 66,
+    "defence": 66,
+    "setPiece": 66
+  },
+  {
+    "name": "Will Crane",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 66,
+    "attack": 66,
+    "defence": 66,
+    "setPiece": 66
+  },
+  {
+    "name": "Will Trenholm",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 66,
+    "attack": 66,
+    "defence": 66,
+    "setPiece": 66
+  },
+  {
+    "name": "Ollie Allan",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Scrum-half"
+    ],
+    "overall": 66,
+    "attack": 66,
+    "defence": 66,
+    "setPiece": 66
+  },
+  {
+    "name": "Connor Hancock",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Loosehead Prop",
+      "Tighthead Prop"
+    ],
+    "overall": 66,
+    "attack": 66,
+    "defence": 66,
+    "setPiece": 66
+  },
+  {
+    "name": "Sebastian De Chaves",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 66,
+    "attack": 66,
+    "defence": 66,
+    "setPiece": 66
+  },
+  {
+    "name": "Ollie Leatherbarrow",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 66,
+    "attack": 66,
+    "defence": 66,
+    "setPiece": 66
+  },
+  {
+    "name": "Harrison Obatoyinbo",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 66,
+    "attack": 66,
+    "defence": 66,
+    "setPiece": 66
+  },
+  {
+    "name": "Henry Walker",
+    "club": "Northampton Saints",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 66,
+    "attack": 66,
+    "defence": 66,
+    "setPiece": 66
+  },
+  {
+    "name": "Archie Benson",
+    "club": "Northampton Saints",
+    "positions": [
+      "Number 8"
+    ],
+    "overall": 66,
+    "attack": 66,
+    "defence": 66,
+    "setPiece": 66
+  },
+  {
+    "name": "Toby Thame",
+    "club": "Northampton Saints",
+    "positions": [
+      "Outside Centre"
+    ],
+    "overall": 66,
+    "attack": 66,
+    "defence": 66,
+    "setPiece": 66
+  },
+  {
+    "name": "James Martin",
+    "club": "Northampton Saints",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 66,
+    "attack": 66,
+    "defence": 66,
+    "setPiece": 66
+  },
+  {
+    "name": "Tom Curtis",
+    "club": "Sale Sharks",
+    "positions": [
+      "Fly-half"
+    ],
+    "overall": 66,
+    "attack": 66,
+    "defence": 66,
+    "setPiece": 66
+  },
+  {
+    "name": "Toby Knight",
+    "club": "Saracens",
+    "positions": [
+      "Number 8"
+    ],
+    "overall": 66,
+    "attack": 66,
+    "defence": 66,
+    "setPiece": 66
+  },
+  {
+    "name": "Brandon Jackson",
+    "club": "Saracens",
+    "positions": [
+      "Inside Centre"
+    ],
+    "overall": 66,
+    "attack": 66,
+    "defence": 66,
+    "setPiece": 66
+  },
+  {
+    "name": "George Taylor",
+    "club": "Bristol Bears",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 65,
+    "attack": 65,
+    "defence": 65,
+    "setPiece": 65
+  },
+  {
+    "name": "Manaaki Boyle-Tiatia",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 65,
+    "attack": 65,
+    "defence": 65,
+    "setPiece": 65
+  },
+  {
+    "name": "Mike Austin",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Scrum-half"
+    ],
+    "overall": 65,
+    "attack": 65,
+    "defence": 65,
+    "setPiece": 65
+  },
+  {
+    "name": "Barny Langton",
+    "club": "Harlequins",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 65,
+    "attack": 65,
+    "defence": 65,
+    "setPiece": 65
+  },
+  {
+    "name": "Ben Waghorn",
+    "club": "Harlequins",
+    "positions": [
+      "Inside Centre"
+    ],
+    "overall": 65,
+    "attack": 65,
+    "defence": 65,
+    "setPiece": 65
+  },
+  {
+    "name": "Cameron Miell",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Loosehead Prop"
+    ],
+    "overall": 65,
+    "attack": 65,
+    "defence": 65,
+    "setPiece": 65
+  },
+  {
+    "name": "Finn Carnduff",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 65,
+    "attack": 65,
+    "defence": 65,
+    "setPiece": 65
+  },
+  {
+    "name": "Callum Hancock",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 65,
+    "attack": 65,
+    "defence": 65,
+    "setPiece": 65
+  },
+  {
+    "name": "Samson Adejimi",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 65,
+    "attack": 65,
+    "defence": 65,
+    "setPiece": 65
+  },
+  {
+    "name": "Tim Cardall",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 65,
+    "attack": 65,
+    "defence": 65,
+    "setPiece": 65
+  },
+  {
+    "name": "Emeka Atuanya",
+    "club": "Northampton Saints",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 65,
+    "attack": 65,
+    "defence": 65,
+    "setPiece": 65
+  },
+  {
+    "name": "Fyn Brown",
+    "club": "Northampton Saints",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 65,
+    "attack": 65,
+    "defence": 65,
+    "setPiece": 65
+  },
+  {
+    "name": "Alex Wills",
+    "club": "Sale Sharks",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 65,
+    "attack": 65,
+    "defence": 65,
+    "setPiece": 65
+  },
+  {
+    "name": "Gareth Simpson",
+    "club": "Saracens",
+    "positions": [
+      "Scrum-half"
+    ],
+    "overall": 65,
+    "attack": 65,
+    "defence": 65,
+    "setPiece": 65
+  },
+  {
+    "name": "Jimmy Halliwell",
+    "club": "Bristol Bears",
+    "positions": [
+      "Loosehead Prop"
+    ],
+    "overall": 64,
+    "attack": 64,
+    "defence": 64,
+    "setPiece": 64
+  },
+  {
+    "name": "Tomas Gwilliam",
+    "club": "Bristol Bears",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 64,
+    "attack": 64,
+    "defence": 64,
+    "setPiece": 64
+  },
+  {
+    "name": "Kenzie Jenkins",
+    "club": "Bristol Bears",
+    "positions": [
+      "Lock",
+      "Flanker"
+    ],
+    "overall": 64,
+    "attack": 64,
+    "defence": 64,
+    "setPiece": 64
+  },
+  {
+    "name": "Raff Weston",
+    "club": "Bristol Bears",
+    "positions": [
+      "Fly-half"
+    ],
+    "overall": 64,
+    "attack": 64,
+    "defence": 64,
+    "setPiece": 64
+  },
+  {
+    "name": "Alfie Bell",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 64,
+    "attack": 64,
+    "defence": 64,
+    "setPiece": 64
+  },
+  {
+    "name": "Dian Bleuler",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Loosehead Prop"
+    ],
+    "overall": 64,
+    "attack": 64,
+    "defence": 64,
+    "setPiece": 64
+  },
+  {
+    "name": "Ben Murphy",
+    "club": "Harlequins",
+    "positions": [
+      "Loosehead Prop"
+    ],
+    "overall": 64,
+    "attack": 64,
+    "defence": 64,
+    "setPiece": 64
+  },
+  {
+    "name": "Sean Kerr",
+    "club": "Harlequins",
+    "positions": [
+      "Outside Centre"
+    ],
+    "overall": 64,
+    "attack": 64,
+    "defence": 64,
+    "setPiece": 64
+  },
+  {
+    "name": "Sam Mercer",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 64,
+    "attack": 64,
+    "defence": 64,
+    "setPiece": 64
+  },
+  {
+    "name": "Mike Rewcastle",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Loosehead Prop"
+    ],
+    "overall": 64,
+    "attack": 64,
+    "defence": 64,
+    "setPiece": 64
+  },
+  {
+    "name": "Bryn Gordon",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 64,
+    "attack": 64,
+    "defence": 64,
+    "setPiece": 64
+  },
+  {
+    "name": "Adam Scott",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 64,
+    "attack": 64,
+    "defence": 64,
+    "setPiece": 64
+  },
+  {
+    "name": "Freddie Lockwood",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Number 8"
+    ],
+    "overall": 64,
+    "attack": 64,
+    "defence": 64,
+    "setPiece": 64
+  },
+  {
+    "name": "James Elliott",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Scrum-half"
+    ],
+    "overall": 64,
+    "attack": 64,
+    "defence": 64,
+    "setPiece": 64
+  },
+  {
+    "name": "Connor Doherty",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Outside Centre"
+    ],
+    "overall": 64,
+    "attack": 64,
+    "defence": 64,
+    "setPiece": 64
+  },
+  {
+    "name": "Joel Grayson",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 64,
+    "attack": 64,
+    "defence": 64,
+    "setPiece": 64
+  },
+  {
+    "name": "Joe Cowell",
+    "club": "Northampton Saints",
+    "positions": [
+      "Loosehead Prop"
+    ],
+    "overall": 64,
+    "attack": 64,
+    "defence": 64,
+    "setPiece": 64
+  },
+  {
+    "name": "Craig Wright",
+    "club": "Northampton Saints",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 64,
+    "attack": 64,
+    "defence": 64,
+    "setPiece": 64
+  },
+  {
+    "name": "Ed Prowse",
+    "club": "Northampton Saints",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 64,
+    "attack": 64,
+    "defence": 64,
+    "setPiece": 64
+  },
+  {
+    "name": "Patreece Bell",
+    "club": "Sale Sharks",
+    "positions": [
+      "Loosehead Prop"
+    ],
+    "overall": 64,
+    "attack": 64,
+    "defence": 64,
+    "setPiece": 64
+  },
+  {
+    "name": "Tom Burrow",
+    "club": "Sale Sharks",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 64,
+    "attack": 64,
+    "defence": 64,
+    "setPiece": 64
+  },
+  {
+    "name": "James Hadfield",
+    "club": "Saracens",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 64,
+    "attack": 64,
+    "defence": 64,
+    "setPiece": 64
+  },
+  {
+    "name": "Nathan Michelow",
+    "club": "Saracens",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 64,
+    "attack": 64,
+    "defence": 64,
+    "setPiece": 64
+  },
+  {
+    "name": "Sam Spink",
+    "club": "Saracens",
+    "positions": [
+      "Inside Centre"
+    ],
+    "overall": 64,
+    "attack": 64,
+    "defence": 64,
+    "setPiece": 64
+  },
+  {
+    "name": "Kofi Cripps",
+    "club": "Bristol Bears",
+    "positions": [
+      "Number 8"
+    ],
+    "overall": 63,
+    "attack": 63,
+    "defence": 63,
+    "setPiece": 63
+  },
+  {
+    "name": "Finn Worley-Brady",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 63,
+    "attack": 63,
+    "defence": 63,
+    "setPiece": 63
+  },
+  {
+    "name": "Rhys Davies",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 63,
+    "attack": 63,
+    "defence": 63,
+    "setPiece": 63
+  },
+  {
+    "name": "Jack Cotgreave",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 63,
+    "attack": 63,
+    "defence": 63,
+    "setPiece": 63
+  },
+  {
+    "name": "Will Hobson",
+    "club": "Harlequins",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 63,
+    "attack": 63,
+    "defence": 63,
+    "setPiece": 63
+  },
+  {
+    "name": "George Marsh",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Number 8"
+    ],
+    "overall": 63,
+    "attack": 63,
+    "defence": 63,
+    "setPiece": 63
+  },
+  {
+    "name": "Charlie Bemand",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Scrum-half"
+    ],
+    "overall": 63,
+    "attack": 63,
+    "defence": 63,
+    "setPiece": 63
+  },
+  {
+    "name": "Jamie Clark",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 63,
+    "attack": 63,
+    "defence": 63,
+    "setPiece": 63
+  },
+  {
+    "name": "Nathan Greenwood",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 63,
+    "attack": 63,
+    "defence": 63,
+    "setPiece": 63
+  },
+  {
+    "name": "Stefan Coetzee",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Fullback"
+    ],
+    "overall": 63,
+    "attack": 63,
+    "defence": 63,
+    "setPiece": 63
+  },
+  {
+    "name": "Jack Kelleher",
+    "club": "Northampton Saints",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 63,
+    "attack": 63,
+    "defence": 63,
+    "setPiece": 63
+  },
+  {
+    "name": "Huw Davies",
+    "club": "Sale Sharks",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 63,
+    "attack": 63,
+    "defence": 63,
+    "setPiece": 63
+  },
+  {
+    "name": "Louie Trevett",
+    "club": "Bristol Bears",
+    "positions": [
+      "Loosehead Prop"
+    ],
+    "overall": 62,
+    "attack": 62,
+    "defence": 62,
+    "setPiece": 62
+  },
+  {
+    "name": "Sam Scott",
+    "club": "Bristol Bears",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 62,
+    "attack": 62,
+    "defence": 62,
+    "setPiece": 62
+  },
+  {
+    "name": "John Edwards",
+    "club": "Bristol Bears",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 62,
+    "attack": 62,
+    "defence": 62,
+    "setPiece": 62
+  },
+  {
+    "name": "Toby Baker",
+    "club": "Bristol Bears",
+    "positions": [
+      "Inside Centre"
+    ],
+    "overall": 62,
+    "attack": 62,
+    "defence": 62,
+    "setPiece": 62
+  },
+  {
+    "name": "Aidan Boshoff",
+    "club": "Bristol Bears",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 62,
+    "attack": 62,
+    "defence": 62,
+    "setPiece": 62
+  },
+  {
+    "name": "Josh Carrington",
+    "club": "Bristol Bears",
+    "positions": [
+      "Fullback"
+    ],
+    "overall": 62,
+    "attack": 62,
+    "defence": 62,
+    "setPiece": 62
+  },
+  {
+    "name": "Tom Gulley",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 62,
+    "attack": 62,
+    "defence": 62,
+    "setPiece": 62
+  },
+  {
+    "name": "Joe Bailey",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 62,
+    "attack": 62,
+    "defence": 62,
+    "setPiece": 62
+  },
+  {
+    "name": "George Newman",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Scrum-half"
+    ],
+    "overall": 62,
+    "attack": 62,
+    "defence": 62,
+    "setPiece": 62
+  },
+  {
+    "name": "Ben Coen",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Fly-half"
+    ],
+    "overall": 62,
+    "attack": 62,
+    "defence": 62,
+    "setPiece": 62
+  },
+  {
+    "name": "Campbell Ridl",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Outside Centre"
+    ],
+    "overall": 62,
+    "attack": 62,
+    "defence": 62,
+    "setPiece": 62
+  },
+  {
+    "name": "Nick Lilley",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 62,
+    "attack": 62,
+    "defence": 62,
+    "setPiece": 62
+  },
+  {
+    "name": "Ollie Minnis",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Loosehead Prop"
+    ],
+    "overall": 62,
+    "attack": 62,
+    "defence": 62,
+    "setPiece": 62
+  },
+  {
+    "name": "Caio James",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 62,
+    "attack": 62,
+    "defence": 62,
+    "setPiece": 62
+  },
+  {
+    "name": "Andrew Turner",
+    "club": "Harlequins",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 62,
+    "attack": 62,
+    "defence": 62,
+    "setPiece": 62
+  },
+  {
+    "name": "Zach Carr",
+    "club": "Harlequins",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 62,
+    "attack": 62,
+    "defence": 62,
+    "setPiece": 62
+  },
+  {
+    "name": "Elliot Williams",
+    "club": "Harlequins",
+    "positions": [
+      "Number 8"
+    ],
+    "overall": 62,
+    "attack": 62,
+    "defence": 62,
+    "setPiece": 62
+  },
+  {
+    "name": "Monty Loggenberg",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 62,
+    "attack": 62,
+    "defence": 62,
+    "setPiece": 62
+  },
+  {
+    "name": "Ryan Crowley",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 62,
+    "attack": 62,
+    "defence": 62,
+    "setPiece": 62
+  },
+  {
+    "name": "Fraser Renwick",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 62,
+    "attack": 62,
+    "defence": 62,
+    "setPiece": 62
+  },
+  {
+    "name": "Sam Waugh",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Fullback"
+    ],
+    "overall": 62,
+    "attack": 62,
+    "defence": 62,
+    "setPiece": 62
+  },
+  {
+    "name": "Will Davies-King",
+    "club": "Northampton Saints",
+    "positions": [
+      "Loosehead Prop"
+    ],
+    "overall": 62,
+    "attack": 62,
+    "defence": 62,
+    "setPiece": 62
+  },
+  {
+    "name": "Sonny Tonga'uiha",
+    "club": "Northampton Saints",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 62,
+    "attack": 62,
+    "defence": 62,
+    "setPiece": 62
+  },
+  {
+    "name": "Ben Alexander",
+    "club": "Northampton Saints",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 62,
+    "attack": 62,
+    "defence": 62,
+    "setPiece": 62
+  },
+  {
+    "name": "Tye Raymont",
+    "club": "Sale Sharks",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 62,
+    "attack": 62,
+    "defence": 62,
+    "setPiece": 62
+  },
+  {
+    "name": "Jos Gilmore",
+    "club": "Sale Sharks",
+    "positions": [
+      "Number 8"
+    ],
+    "overall": 62,
+    "attack": 62,
+    "defence": 62,
+    "setPiece": 62
+  },
+  {
+    "name": "Ollie Batson",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Inside Centre"
+    ],
+    "overall": 61,
+    "attack": 61,
+    "defence": 61,
+    "setPiece": 61
+  },
+  {
+    "name": "Kealan Freeman-Price",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 61,
+    "attack": 61,
+    "defence": 61,
+    "setPiece": 61
+  },
+  {
+    "name": "Ethan Clarke",
+    "club": "Harlequins",
+    "positions": [
+      "Loosehead Prop"
+    ],
+    "overall": 61,
+    "attack": 61,
+    "defence": 61,
+    "setPiece": 61
+  },
+  {
+    "name": "Luke Yendle",
+    "club": "Harlequins",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 61,
+    "attack": 61,
+    "defence": 61,
+    "setPiece": 61
+  },
+  {
+    "name": "Jake Murray",
+    "club": "Harlequins",
+    "positions": [
+      "Scrum-half"
+    ],
+    "overall": 61,
+    "attack": 61,
+    "defence": 61,
+    "setPiece": 61
+  },
+  {
+    "name": "Connor Slevin",
+    "club": "Harlequins",
+    "positions": [
+      "Fly-half"
+    ],
+    "overall": 61,
+    "attack": 61,
+    "defence": 61,
+    "setPiece": 61
+  },
+  {
+    "name": "Tubuna Maka",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Loosehead Prop"
+    ],
+    "overall": 61,
+    "attack": 61,
+    "defence": 61,
+    "setPiece": 61
+  },
+  {
+    "name": "Sam Williams",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Number 8"
+    ],
+    "overall": 61,
+    "attack": 61,
+    "defence": 61,
+    "setPiece": 61
+  },
+  {
+    "name": "Tom Threlfall",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Fly-half"
+    ],
+    "overall": 61,
+    "attack": 61,
+    "defence": 61,
+    "setPiece": 61
+  },
+  {
+    "name": "Finn Baker",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 61,
+    "attack": 61,
+    "defence": 61,
+    "setPiece": 61
+  },
+  {
+    "name": "Ralph McEachran",
+    "club": "Sale Sharks",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 61,
+    "attack": 61,
+    "defence": 61,
+    "setPiece": 61
+  },
+  {
+    "name": "Kieran Hill",
+    "club": "Bristol Bears",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 60,
+    "attack": 60,
+    "defence": 60,
+    "setPiece": 60
+  },
+  {
+    "name": "Ethan Surrey",
+    "club": "Bristol Bears",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 60,
+    "attack": 60,
+    "defence": 60,
+    "setPiece": 60
+  },
+  {
+    "name": "Victor Worsnip",
+    "club": "Bristol Bears",
+    "positions": [
+      "Outside Centre"
+    ],
+    "overall": 60,
+    "attack": 60,
+    "defence": 60,
+    "setPiece": 60
+  },
+  {
+    "name": "Evan Morris",
+    "club": "Bristol Bears",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 60,
+    "attack": 60,
+    "defence": 60,
+    "setPiece": 60
+  },
+  {
+    "name": "Ollie Harris",
+    "club": "Bristol Bears",
+    "positions": [
+      "Fullback"
+    ],
+    "overall": 60,
+    "attack": 60,
+    "defence": 60,
+    "setPiece": 60
+  },
+  {
+    "name": "Oscar Beckerleg",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 60,
+    "attack": 60,
+    "defence": 60,
+    "setPiece": 60
+  },
+  {
+    "name": "Zack Wimbush",
+    "club": "Exeter Chiefs",
+    "positions": [
+      "Outside Centre"
+    ],
+    "overall": 60,
+    "attack": 60,
+    "defence": 60,
+    "setPiece": 60
+  },
+  {
+    "name": "George Alexander",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 60,
+    "attack": 60,
+    "defence": 60,
+    "setPiece": 60
+  },
+  {
+    "name": "Freddie Ogden-Metherell",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 60,
+    "attack": 60,
+    "defence": 60,
+    "setPiece": 60
+  },
+  {
+    "name": "Freddie Stevens",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 60,
+    "attack": 60,
+    "defence": 60,
+    "setPiece": 60
+  },
+  {
+    "name": "Deian Gwynne",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Number 8"
+    ],
+    "overall": 60,
+    "attack": 60,
+    "defence": 60,
+    "setPiece": 60
+  },
+  {
+    "name": "Rhys Price",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Scrum-half"
+    ],
+    "overall": 60,
+    "attack": 60,
+    "defence": 60,
+    "setPiece": 60
+  },
+  {
+    "name": "Josiah Edwards-Giraud",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Inside Centre"
+    ],
+    "overall": 60,
+    "attack": 60,
+    "defence": 60,
+    "setPiece": 60
+  },
+  {
+    "name": "Jamie Miller",
+    "club": "Harlequins",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 60,
+    "attack": 60,
+    "defence": 60,
+    "setPiece": 60
+  },
+  {
+    "name": "Jerold Gorleku",
+    "club": "Harlequins",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 60,
+    "attack": 60,
+    "defence": 60,
+    "setPiece": 60
+  },
+  {
+    "name": "Harry Browne",
+    "club": "Harlequins",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 60,
+    "attack": 60,
+    "defence": 60,
+    "setPiece": 60
+  },
+  {
+    "name": "Lucas Schmid",
+    "club": "Harlequins",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 60,
+    "attack": 60,
+    "defence": 60,
+    "setPiece": 60
+  },
+  {
+    "name": "Seb Driscoll",
+    "club": "Harlequins",
+    "positions": [
+      "Number 8"
+    ],
+    "overall": 60,
+    "attack": 60,
+    "defence": 60,
+    "setPiece": 60
+  },
+  {
+    "name": "Conor Byrne",
+    "club": "Harlequins",
+    "positions": [
+      "Fullback"
+    ],
+    "overall": 60,
+    "attack": 60,
+    "defence": 60,
+    "setPiece": 60
+  },
+  {
+    "name": "Harry Palmer",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 60,
+    "attack": 60,
+    "defence": 60,
+    "setPiece": 60
+  },
+  {
+    "name": "Charlie Myall",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Outside Centre"
+    ],
+    "overall": 60,
+    "attack": 60,
+    "defence": 60,
+    "setPiece": 60
+  },
+  {
+    "name": "George Pearson",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 60,
+    "attack": 60,
+    "defence": 60,
+    "setPiece": 60
+  },
+  {
+    "name": "Nicky Little",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 60,
+    "attack": 60,
+    "defence": 60,
+    "setPiece": 60
+  },
+  {
+    "name": "Oscar Usher",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 60,
+    "attack": 60,
+    "defence": 60,
+    "setPiece": 60
+  },
+  {
+    "name": "Reuben Parsons",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 60,
+    "attack": 60,
+    "defence": 60,
+    "setPiece": 60
+  },
+  {
+    "name": "George Bolam",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Number 8"
+    ],
+    "overall": 60,
+    "attack": 60,
+    "defence": 60,
+    "setPiece": 60
+  },
+  {
+    "name": "Ollie Scola",
+    "club": "Northampton Saints",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 60,
+    "attack": 60,
+    "defence": 60,
+    "setPiece": 60
+  },
+  {
+    "name": "James Bennett",
+    "club": "Northampton Saints",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 60,
+    "attack": 60,
+    "defence": 60,
+    "setPiece": 60
+  },
+  {
+    "name": "Jonny Weimann",
+    "club": "Northampton Saints",
+    "positions": [
+      "Scrum-half"
+    ],
+    "overall": 60,
+    "attack": 60,
+    "defence": 60,
+    "setPiece": 60
+  },
+  {
+    "name": "Billy Pasco",
+    "club": "Northampton Saints",
+    "positions": [
+      "Inside Centre"
+    ],
+    "overall": 60,
+    "attack": 60,
+    "defence": 60,
+    "setPiece": 60
+  },
+  {
+    "name": "Will Austin",
+    "club": "Sale Sharks",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 60,
+    "attack": 60,
+    "defence": 60,
+    "setPiece": 60
+  },
+  {
+    "name": "Dom Hanson",
+    "club": "Sale Sharks",
+    "positions": [
+      "Scrum-half"
+    ],
+    "overall": 60,
+    "attack": 60,
+    "defence": 60,
+    "setPiece": 60
+  },
+  {
+    "name": "Ollie Davies",
+    "club": "Sale Sharks",
+    "positions": [
+      "Fly-half"
+    ],
+    "overall": 60,
+    "attack": 60,
+    "defence": 60,
+    "setPiece": 60
+  },
+  {
+    "name": "Albert Bradshaw",
+    "club": "Sale Sharks",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 60,
+    "attack": 60,
+    "defence": 60,
+    "setPiece": 60
+  },
+  {
+    "name": "Harrison Bellamy",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Loosehead Prop"
+    ],
+    "overall": 59,
+    "attack": 59,
+    "defence": 59,
+    "setPiece": 59
+  },
+  {
+    "name": "George Knowles",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 59,
+    "attack": 59,
+    "defence": 59,
+    "setPiece": 59
+  },
+  {
+    "name": "Peter Paramore",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 59,
+    "attack": 59,
+    "defence": 59,
+    "setPiece": 59
+  },
+  {
+    "name": "Jack Gilbert",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 59,
+    "attack": 59,
+    "defence": 59,
+    "setPiece": 59
+  },
+  {
+    "name": "Max Knight",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Outside Centre"
+    ],
+    "overall": 59,
+    "attack": 59,
+    "defence": 59,
+    "setPiece": 59
+  },
+  {
+    "name": "Ollie Streeter",
+    "club": "Harlequins",
+    "positions": [
+      "Loosehead Prop"
+    ],
+    "overall": 59,
+    "attack": 59,
+    "defence": 59,
+    "setPiece": 59
+  },
+  {
+    "name": "Josh Bellamy",
+    "club": "Harlequins",
+    "positions": [
+      "Fly-half"
+    ],
+    "overall": 59,
+    "attack": 59,
+    "defence": 59,
+    "setPiece": 59
+  },
+  {
+    "name": "Franklin McMillan",
+    "club": "Harlequins",
+    "positions": [
+      "Outside Centre"
+    ],
+    "overall": 59,
+    "attack": 59,
+    "defence": 59,
+    "setPiece": 59
+  },
+  {
+    "name": "Osian Thomas",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 59,
+    "attack": 59,
+    "defence": 59,
+    "setPiece": 59
+  },
+  {
+    "name": "Wilf McCarthy",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Inside Centre"
+    ],
+    "overall": 59,
+    "attack": 59,
+    "defence": 59,
+    "setPiece": 59
+  },
+  {
+    "name": "Junior Newton",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Fly-half"
+    ],
+    "overall": 59,
+    "attack": 59,
+    "defence": 59,
+    "setPiece": 59
+  },
+  {
+    "name": "Rhys Beeckmans",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Inside Centre"
+    ],
+    "overall": 59,
+    "attack": 59,
+    "defence": 59,
+    "setPiece": 59
+  },
+  {
+    "name": "Jack Lewis",
+    "club": "Northampton Saints",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 59,
+    "attack": 59,
+    "defence": 59,
+    "setPiece": 59
+  },
+  {
+    "name": "Alfie Longstaff",
+    "club": "Sale Sharks",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 59,
+    "attack": 59,
+    "defence": 59,
+    "setPiece": 59
+  },
+  {
+    "name": "Seb Kelly",
+    "club": "Sale Sharks",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 59,
+    "attack": 59,
+    "defence": 59,
+    "setPiece": 59
+  },
+  {
+    "name": "Harry Wright",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 58,
+    "attack": 58,
+    "defence": 58,
+    "setPiece": 58
+  },
+  {
+    "name": "Olly Allport",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 58,
+    "attack": 58,
+    "defence": 58,
+    "setPiece": 58
+  },
+  {
+    "name": "Rio Ebanks",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Scrum-half"
+    ],
+    "overall": 58,
+    "attack": 58,
+    "defence": 58,
+    "setPiece": 58
+  },
+  {
+    "name": "Will Knight",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Inside Centre"
+    ],
+    "overall": 58,
+    "attack": 58,
+    "defence": 58,
+    "setPiece": 58
+  },
+  {
+    "name": "Ewan Caven",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 58,
+    "attack": 58,
+    "defence": 58,
+    "setPiece": 58
+  },
+  {
+    "name": "Cameron Doak",
+    "club": "Harlequins",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 58,
+    "attack": 58,
+    "defence": 58,
+    "setPiece": 58
+  },
+  {
+    "name": "Jimmy Staples",
+    "club": "Harlequins",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 58,
+    "attack": 58,
+    "defence": 58,
+    "setPiece": 58
+  },
+  {
+    "name": "Tate Williams",
+    "club": "Harlequins",
+    "positions": [
+      "Flanker"
+    ],
+    "overall": 58,
+    "attack": 58,
+    "defence": 58,
+    "setPiece": 58
+  },
+  {
+    "name": "Lucas Friday",
+    "club": "Harlequins",
+    "positions": [
+      "Scrum-half"
+    ],
+    "overall": 58,
+    "attack": 58,
+    "defence": 58,
+    "setPiece": 58
+  },
+  {
+    "name": "Ludo Kolade",
+    "club": "Harlequins",
+    "positions": [
+      "Inside Centre"
+    ],
+    "overall": 58,
+    "attack": 58,
+    "defence": 58,
+    "setPiece": 58
+  },
+  {
+    "name": "Theo Povey",
+    "club": "Harlequins",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 58,
+    "attack": 58,
+    "defence": 58,
+    "setPiece": 58
+  },
+  {
+    "name": "Kesena Izu",
+    "club": "Leicester Tigers",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 58,
+    "attack": 58,
+    "defence": 58,
+    "setPiece": 58
+  },
+  {
+    "name": "Joe Davis",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Scrum-half"
+    ],
+    "overall": 58,
+    "attack": 58,
+    "defence": 58,
+    "setPiece": 58
+  },
+  {
+    "name": "Aiden Ainsworth-Cave",
+    "club": "Northampton Saints",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 58,
+    "attack": 58,
+    "defence": 58,
+    "setPiece": 58
+  },
+  {
+    "name": "Charlie Ulcoq",
+    "club": "Northampton Saints",
+    "positions": [
+      "Number 8"
+    ],
+    "overall": 58,
+    "attack": 58,
+    "defence": 58,
+    "setPiece": 58
+  },
+  {
+    "name": "Edoardo Todaro",
+    "club": "Northampton Saints",
+    "positions": [
+      "Outside Centre"
+    ],
+    "overall": 58,
+    "attack": 58,
+    "defence": 58,
+    "setPiece": 58
+  },
+  {
+    "name": "Tom Rowe",
+    "club": "Northampton Saints",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 58,
+    "attack": 58,
+    "defence": 58,
+    "setPiece": 58
+  },
+  {
+    "name": "Dylan Hodkinson",
+    "club": "Sale Sharks",
+    "positions": [
+      "Lock"
+    ],
+    "overall": 58,
+    "attack": 58,
+    "defence": 58,
+    "setPiece": 58
+  },
+  {
+    "name": "Patrick Hogg",
+    "club": "Sale Sharks",
+    "positions": [
+      "Number 8"
+    ],
+    "overall": 58,
+    "attack": 58,
+    "defence": 58,
+    "setPiece": 58
+  },
+  {
+    "name": "Toby Wilson",
+    "club": "Sale Sharks",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 58,
+    "attack": 58,
+    "defence": 58,
+    "setPiece": 58
+  },
+  {
+    "name": "George Dufty",
+    "club": "Gloucester Rugby",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 57,
+    "attack": 57,
+    "defence": 57,
+    "setPiece": 57
+  },
+  {
+    "name": "Sam Bland",
+    "club": "Harlequins",
+    "positions": [
+      "Tighthead Prop"
+    ],
+    "overall": 57,
+    "attack": 57,
+    "defence": 57,
+    "setPiece": 57
+  },
+  {
+    "name": "Jack Dickens",
+    "club": "Newcastle Red Bulls",
+    "positions": [
+      "Scrum-half"
+    ],
+    "overall": 57,
+    "attack": 57,
+    "defence": 57,
+    "setPiece": 57
+  },
+  {
+    "name": "Aidan Pugh",
+    "club": "Northampton Saints",
+    "positions": [
+      "Scrum-half"
+    ],
+    "overall": 57,
+    "attack": 57,
+    "defence": 57,
+    "setPiece": 57
+  },
+  {
+    "name": "Freddie St John",
+    "club": "Northampton Saints",
+    "positions": [
+      "Inside Centre"
+    ],
+    "overall": 57,
+    "attack": 57,
+    "defence": 57,
+    "setPiece": 57
+  },
+  {
+    "name": "Sebi Krippner",
+    "club": "Sale Sharks",
+    "positions": [
+      "Wing"
+    ],
+    "overall": 57,
+    "attack": 57,
+    "defence": 57,
+    "setPiece": 57
+  },
+  {
+    "name": "James Pater",
+    "club": "Northampton Saints",
+    "positions": [
+      "Fullback"
+    ],
+    "overall": 56,
+    "attack": 56,
+    "defence": 56,
+    "setPiece": 56
+  },
+  {
+    "name": "Henry Lumley",
+    "club": "Northampton Saints",
+    "positions": [
+      "Outside Centre"
+    ],
+    "overall": 55,
+    "attack": 55,
+    "defence": 55,
+    "setPiece": 55
+  },
+  {
+    "name": "Kepu Tuipulotu",
+    "club": "Bath Rugby",
+    "positions": [
+      "Hooker"
+    ],
+    "overall": 80,
+    "attack": 80,
+    "defence": 80,
+    "setPiece": 80
+  },
+  {
+    "name": "Noah Caluori",
+    "club": "Saracens",
+    "positions": [
+      "Wing",
+      "Fullback"
+    ],
+    "overall": 90,
+    "attack": 90,
+    "defence": 90,
+    "setPiece": 90
+  }
+]
