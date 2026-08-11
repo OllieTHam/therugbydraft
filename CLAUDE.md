@@ -168,6 +168,57 @@ that issue, before closing it. Don't leave it for later — an out-of-date
 CLAUDE.md will cause future issues to be built on wrong assumptions.
 
 ---
-*Last updated: 22 June 2026. Keep this file current — it should reflect
+*Last updated: 10 August 2026. Keep this file current — it should reflect
 present reality, not history. Update it whenever a decision in this document
 changes.*
+
+## Player dataset scope (v1)
+
+**Season:** the player dataset (Issue 2, part 1b) is locked to the **2025-26 Premiership season**, deliberately — not the upcoming 2026-27 season. The 2025-26 season is complete (final played 20 June 2026), so every club's squad, positions, and academy appearances are settled historical fact rather than live transfer-window reporting. This removes the need to track summer departures, loan-backs, and unconfirmed signings per club. Rolling forward to a later season is a future decision, not assumed by this choice.
+
+**Academy player inclusion rule:** an academy player is included in their club's dataset if and only if they made at least one senior Gallagher Premiership (league) appearance for that club during the 2025-26 season. Being on a squad list or holding a first-team contract is not sufficient on its own — actual appearance is the bar. This applies uniformly across all 10 clubs.
+
+**Rating scale across seasons:** player overall ratings reflect that specific season's actual standout quality, not a fixed all-time scale. A future season's ceiling is independent of past seasons' ceilings — it should be free to land higher or lower than a prior season's best, based on who is genuinely playing well that year, not anchored to match or exceed it. When building a later season's dataset, do not treat an earlier season's top rating (e.g. 2025-26's ceiling of 93) as a benchmark to hit — re-derive the ceiling independently each time, or ratings will drift upward (or downward) across seasons without anyone deciding that on purpose.
+
+## Player Ratings Philosophy
+
+**"Quality when playing," not season-long contribution.**
+
+Overall ratings reflect how good a player is *when they take the field*, not
+how much they contributed across the season in aggregate. This is a
+deliberate choice: the match simulation engine has no injury mechanic, so
+weighting ratings by real-world availability or minutes played would
+penalise players who were simply injured or rested, with no corresponding
+gameplay downside in the simulation. A player who was excellent in every
+game they featured in should rate as such, regardless of how many games
+that was.
+
+Ratings are anchored to two fixed reference points:
+- **Tom Willis — 96** (Saracens/Bordeaux-bound, Gallagher PREM Player of the
+  Season)
+- **Thomas du Toit — 92** (Bath, World Rugby Dream Team selection)
+
+Cross-position consistency applies: ratings compare across the full 55–96
+scale, not on a per-position curve in isolation. A standout player at one
+position should still rate below the anchors even when compared against a
+different position.
+
+## Season Lock
+
+The dataset is locked to the **completed 2025-26 season** as historical
+fact. This deliberately eliminates live transfer tracking — every squad and
+appearance is settled, not subject to change as the real 2026-27 season
+unfolds.
+
+Ratings reflect the **whole season, including internationals and cup
+competitions** — not PREM league matches alone. This follows from the
+anchors themselves: du Toit's anchor rests partly on a global honour (World
+Rugby Dream Team), not domestic form alone, so the rest of the dataset is
+held to the same whole-picture standard for consistency.
+
+Academy players are included only if they made at least one senior
+Premiership league appearance that season — squad-list presence or a
+contract alone isn't sufficient.
+
+**Ratings must be re-derived independently each new season**, not carried
+forward or incrementally adjusted, to prevent cross-season rating drift.
