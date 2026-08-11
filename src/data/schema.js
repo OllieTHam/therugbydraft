@@ -2,7 +2,7 @@
  * @typedef {Object} Club
  * @property {string} name - Club's full name (e.g. "Bath Rugby")
  * @property {string[]} colours - Primary colours as descriptive strings (e.g. ["navy", "gold"])
- * @property {string} season - Season identifier (e.g. "2024-25"); supports future backdating
+ * @property {string} season - Season identifier (e.g. "2025-26"); supports future backdating
  */
 
 /**
